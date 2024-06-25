@@ -1,9 +1,122 @@
 {
-  "business": {
-    "seo": {
-      "title": "Saferspaces - Sicherheit weiter gedacht",
-      "description": "Saferspaces ergänzt bestehende Sicherheitskonzepte durch einen innovativen Ansatz, der den Fokus auf Betroffene richtet und sich für ein respektvolles Miteinander einsetzt."
+  "home": {
+    "hero": {
+      "subtitle": "Saferspaces, eine Softwareanwendung, die schnelle und einfache Hilfe für Betroffene ermöglicht.",
+      "title": "Saferspaces for <1>safer</1> places"
     },
+    "directContactViaQrCode": {
+      "title": "<0>Anonym</0> und <br /> <2>niedrigschwellig</2>",
+      "text": "Über den Scan von standortbasierten QR-Codes auf den saferspaces Plakaten kann einfach und niedrigschwellig Kontakt zu geschultem Personal aufgenommen werden. Dieses weiß unmittelbar, wo sich die hilfesuchende Person befindet und kann sich direkt auf den Weg machen."
+    },
+    "digitalAwarenessApproach": {
+      "title": "Ein <1>zeitgemäßer</1> <br /> Ansatz für <br /> <3>Awareness</3>-Arbeit",
+      "text": "Mit saferspaces wird die Frage „<1>Wer</1> hat <3>was</3> getan?“ mit der Frage „<5>Wem</5> ist <7>was</7> passiert?“ durch einen zeitgemäßen Ansatz ergänzt. Mit unserer Anwendung kann nicht nur Betroffenen unmittelbar geholfen werden, sie liefert auch Einblicke in wertvolle Daten, um die Awareness-Arbeit innerhalb des Nutzungskontextes langfristig zu verbessern.",
+      "rbfImageAlt": "Eine Nahaufnahme des Rückens einer Person ist zu sehen. Diese trägt eine Jeansweste mit einem Aufnäher, auf dem ein lila Regenschirm, „Reeperbahn Festival“ und darunter „Awareness“ steht."
+    },
+    "advantages": {
+      "title": "<0>Vorteile</0> der Nutzung",
+      "description": "Die Anwendung sorgt nicht nur für ein besseres Wohlbefinden von Besuchenden, sie trägt zudem durch ihren innovativen Ansatz zu einer nachhaltigen Besserung der Sicherheitslage bei.",
+      "geoPosition": {
+        "title": "Direkte <br /> Standortübermittlung",
+        "description": "Alle QR-Codes auf den saferspaces-Plakaten sind standortbasiert. Dadurch weiß das Team direkt, wo sich eine betroffene Person befindet."
+      },
+      "anonymous": {
+        "title": "Anonymes <br /> Melden",
+        "description": "Die Kontaktaufnahme kann völlig anonym, ohne die Erfassung von personenbezogenen Daten erfolgen."
+      },
+      "noApp": {
+        "title": "Kein Download <br /> einer App",
+        "description": "Saferspaces funktioniert Webbasiert. Besuchende müssen keine App im Vorfeld einer Veranstaltung downloaden."
+      },
+      "eye": {
+        "title": "Betroffenenorientierter Ansatz",
+        "description": "Anstatt zu fragen, wer eine Straftat begangenen hat, richtet saferspaces den Fokus auf die Frage, wem etwas passiert ist und wie der entsprechenden Person bestmöglich geholfen werden kann."
+      },
+      "qrCode": {
+        "title": "Einfache <br /> Kontaktaufnahme",
+        "description": "Die Kontaktaufnahme zum Personal erfolgt durch den einfachen Scan eines QR-Codes. Die aktive Ansprache wird niedrigschwellig abgelöst."
+      },
+      "data": {
+        "title": "Erfassung von Metadaten zur Evaluierung",
+        "description": "Alle nicht personenbezogenen Daten „Wann“, „Welche Art von Vorfall“ und „Wo“ werden zur Messung und Auswertung der Sicherheitslage zur Verfügung gestellt."
+      },
+      "language": {
+        "title": "Automatisierte <br /> Mehrsprachigkeit",
+        "description": "Beim Scan wird die Systemsprache des Mobilgeräts erkannt und die Inhalte entsprechend richtig dargestellt. (DE/EN)"
+      },
+      "shield": {
+        "title": "Gesteigertes <br /> Sicherheitsgefühl",
+        "description": "Durch die direkte Ansprache im Raum, z. B. durch Plakate, wird das allgemeine Sicherheitsgefühl und das Wohlbefinden der Besuchenden gesteigert."
+      },
+      "integration": {
+        "title": "Standortunabhängige <br /> Lösung",
+        "description": "Saferspaces lässt sich unkompliziert in bestehende Apps integrieren, damit kann zusätzlich von jedem beliebigen Standort Kontakt zum Awareness-Team aufgenommen werden."
+      }
+    },
+    "forARespectfulSociety": {
+      "title": "Für ein <1>respektvolles</1> Miteinander",
+      "text": "Saferspaces ergänzt bestehende Sicherheitskonzepte mit einem Ansatz, der das allgemeine Wohlbefinden steigert und sich aktiv für ein respektvolles Miteinander einsetzt. Nach dem Grundsatz: Da sein, wenn Hilfe gebraucht wird, kommt die Infrastruktur in unterschiedlichen Kontexten zum Einsatz:",
+      "discrimination": {
+        "title": "Diskriminierung",
+        "description": "Wenn Menschen aufgrund ihres Geschlechts, ihrer Hautfarbe, des Glaubens oder aufgrund von körperlicher oder geistigen Beeinträchtigungen benachteiligt werden, braucht es eine niedrigschwellige Meldemöglichkeit für Betroffene."
+      },
+      "sexualAssault": {
+        "title": "Sexuelle Übergriffe",
+        "description": "Die Dunkelziffern, insbesondere bei Sexualstraftaten, sind erschreckend hoch. Durch die saferspaces Infrastruktur wird Betroffenen die Möglichkeit geboten, unmittelbar geschulte Unterstützung zu erhalten."
+      },
+      "generalIncidents": {
+        "title": "Allgemeine Vorfälle",
+        "description": "Auch bei fehlender Barrierefreiheit, einem in der Menge verloren gegangenem Kind oder einer Panikattacke bietet die standortbasierte Meldefunktion die Möglichkeit, schnell und unkompliziert Hilfe anzufordern."
+      },
+      "abuseOfPower": {
+        "title": "Machtmissbrauch",
+        "description": "In Fällen von Machtmissbrauch oder der Ausnutzung von Autoritäten können Betroffene mit saferspaces, ohne Sorge vor persönlichen Nachteilen beispielsweise im Arbeitskontext, Vorfälle anonym melden und Unterstützung erhalten."
+      },
+      "escalationsOfViolence": {
+        "title": "Gewalteskalationen",
+        "description": "Durch die ortsgebundene Meldemöglichkeit mit saferspaces, wird eine unmittelbare Reaktion auch in Gewalteskalationen ermöglicht, um Betroffenen schnellstmöglich zur Seite zu stehen."
+      },
+      "notification": {
+        "title": "Meldefunktion",
+        "description": "Besuchende können auch dann, wenn kein Team vor Ort ist, über die Anwendung externe Hilfsangebote aufgezeigt bekommen und anonyme Meldungen an die Veranstaltenden verfassen."
+      }
+    },
+    "customerFeedback": {
+      "title": "Was unsere <1>Kunden</1> <br /> über uns sagen",
+      "description": "Unsere Anwendung ist seit 2021 im Nachtleben, im Profisport, bei Großveranstaltungen, in Unternehmen und vielen weiteren Orten erfolgreich für ein respektvolleres Miteinander im Einsatz.",
+      "quotes": [
+        {
+          "text": "Saferspaces lenkt das Prinzip Sicherheit von dem Gefühl, bedroht zu sein, hin zu dem Gefühl, aufgehoben zu sein.",
+          "name": "Petra Ackmann",
+          "position": "Vorsitzende",
+          "company": "Landesfrauenrat Hamburg e.V."
+        },
+        {
+          "text": "Wir haben den Eindruck, dass unser Publikum – durch die Ansprache und Nutzen der App – direkt mehr aufeinander acht gibt.",
+          "name": "Fenja Möller",
+          "position": "Booking Agent & Promoter ",
+          "company": "Karsten Jahnke Konzertdirektion"
+        },
+        {
+          "text": "Die Personen, die die Codes nutzten, um Hilfe zu bekommen, waren überrascht, wie schnell und zuverlässig dann auch Hilfe vor Ort war.",
+          "name": "Sandra Lechtenböhmer",
+          "position": "Leiterin Awareness",
+          "company": "Millerntor Gallery"
+        },
+        {
+          "text": "Fester Bestandteil des ausgearbeiteten Awareness-Konzeptes des 1. FC St. Pauli ist die Nutzung von saferspaces.",
+          "name": "Sven Brux",
+          "position": "Leitung Spieltagsorganisation & Fanangelegenheiten ",
+          "company": "1. FC St. Pauli"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Jetzt <1>Termin</1> <br /> vereinbaren",
+      "description": "Du hast Interesse an der Nutzung von saferspaces oder Fragen zur Anwendung? Dann buche hier einen kurzen Termin."
+    }
+  },
+  "business": {
     "hero": {
       "title": "Sicherheit <1>weiter</1> gedacht",
       "subtitle": "Saferspaces ergänzt bestehende Sicherheitskonzepte durch einen innovativen Ansatz, der den Fokus auf Betroffene richtet und sich für ein respektvolles Miteinander einsetzt."
