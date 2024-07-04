@@ -1,4 +1,42 @@
 {
+  "common": {
+    "app_title": "saferspaces - Für ein respektvolles Miteinander",
+    "name_de": "Deutsch",
+    "name_en": "Englisch",
+    "de_flag": "Flagge von Deutschland",
+    "en_flag": "Flagge von Großbritannien",
+    "flag_one": "Flagge",
+    "flag_other": "Flaggen",
+    "variables": "{{ count }} flags for {{ user }}",
+    "navigation": {
+      "appointment": "Jetzt buchen",
+      "login": "Login",
+      "imprint": "Impressum",
+      "privacy": "Datenschutz",
+      "faq": "FAQ",
+      "home": {
+        "title": "Unser Ansatz"
+      },
+      "business": {
+        "title": "Für Unternehmen",
+        "pricing": "Preise",
+        "mustHaves": "Vorraussetzungen",
+        "menu": []
+      },
+      "about": {
+        "title": "Über uns",
+        "how-to-start": "Umsetzung",
+        "admin": "Buchungssystem",
+        "price": "Preise"
+      },
+      "impact": {
+        "title": "Wirkung",
+        "how-to-start": "Umsetzung",
+        "admin": "Buchungssystem",
+        "price": "Preise"
+      }
+    }
+  },
   "home": {
     "hero": {
       "subtitle": "Saferspaces, eine Softwareanwendung, die schnelle und einfache Hilfe für Betroffene ermöglicht.",
@@ -9,8 +47,8 @@
       "text": "Über den Scan von standortbasierten QR-Codes auf den saferspaces Plakaten kann einfach und niedrigschwellig Kontakt zu geschultem Personal aufgenommen werden. Dieses weiß unmittelbar, wo sich die hilfesuchende Person befindet und kann sich direkt auf den Weg machen."
     },
     "digitalAwarenessApproach": {
-      "title": "Ein <1>zeitgemäßer</1> <br /> Ansatz für <br /> <3>Awareness</3>-Arbeit",
-      "text": "Mit saferspaces wird die Frage „<1>Wer</1> hat <3>was</3> getan?“ mit der Frage „<5>Wem</5> ist <7>was</7> passiert?“ durch einen zeitgemäßen Ansatz ergänzt. Mit unserer Anwendung kann nicht nur Betroffenen unmittelbar geholfen werden, sie liefert auch Einblicke in wertvolle Daten, um die Awareness-Arbeit innerhalb des Nutzungskontextes langfristig zu verbessern.",
+      "title": "Sicherheit <em>weiter</em> gedacht",
+      "text": "Mit saferspaces wird die Frage „<1>Wer</1> hat <3>was</3> getan?“ mit der Frage „<5>Wem</5> ist <7>was</7> passiert?“ durch einen zeitgemäßen Ansatz ergänzt. Mit unserer Anwendung kann nicht nur Betroffenen unmittelbar geholfen werden, sie liefert auch Einblicke in wertvolle Daten, um die Sicherheitsstrukturen innerhalb des Nutzungskontextes nachhaltig zu verbessern.",
       "rbfImageAlt": "Eine Nahaufnahme des Rückens einer Person ist zu sehen. Diese trägt eine Jeansweste mit einem Aufnäher, auf dem ein lila Regenschirm, „Reeperbahn Festival“ und darunter „Awareness“ steht."
     },
     "advantages": {
@@ -113,37 +151,252 @@
     },
     "contact": {
       "title": "Jetzt <1>Termin</1> <br /> vereinbaren",
-      "description": "Du hast Interesse an der Nutzung von saferspaces oder Fragen zur Anwendung? Dann buche hier einen kurzen Termin."
+      "description": "Du hast Interesse an der Nutzung von saferspaces oder Fragen zur Anwendung? Dann buche hier einen kurzen Termin.",
+      "accessibility": {
+        "image_1": "Ein Mann und eine Frau sitzen lächelnd auf einem grünen, gemusterten Sofa in einem hell erleuchteten Raum. Die Frau trägt eine graue Jacke und Jeans mit neongelben Turnschuhen, während der Mann ein blaues Hemd mit Blumenmuster und schwarze Jeans trägt.",
+        "image_2": "Werbeposter an einer Außenwand mit dem Slogan 'We've got your back' in großen lila Buchstaben auf einem lavendelfarbenen Hintergrund. Über dem Text ist ein stilisiertes weißes Auge abgebildet. Im oberen linken Bereich des Posters steht das Log von 'saferspaces'."
+      }
     }
   },
   "business": {
     "hero": {
-      "title": "Sicherheit <1>weiter</1> gedacht",
+      "title": "Sicherheit <em>weiter</em> gedacht",
       "subtitle": "Saferspaces ergänzt bestehende Sicherheitskonzepte durch einen innovativen Ansatz, der den Fokus auf Betroffene richtet und sich für ein respektvolles Miteinander einsetzt."
     },
-    "1": {
-      "title": "Wir schaffen <br /> sicherere Orte",
-      "text": "Unsere Anwendung wird unter anderem bei Großveranstaltungen, (Sport-)Vereinen, Festival, Clubs,  Messen in Unternehmen und bei Konferenzen eingesetzt – überall dort, wo viele Menschen zusammenkommen."
+    "safer": {
+      "title": "Wir schaffen <br /> <em>sicherere</em> Orte",
+      "text": "Unsere Anwendung wird unter anderem bei Großveranstaltungen, (Sport-)Vereinen, Festival, Clubs,  Messen in Unternehmen und bei Konferenzen eingesetzt – überall dort, wo viele Menschen zusammenkommen.",
+      "accessibility": {
+        "paulin-flyer-alt": "Ein Hand hält ein Informationsblatt über das Awareness Team \"PAULIN\" vom FC St. Pauli vor dem Hintergrund eines leeren Fußballstadions. Das Blatt enthält Texte über die Funktionen und den Kontaktweg zum Awareness Team. Im Hintergrund ist das Stadion mit roten Sitzen und einer Anzeigetafel, die den Schriftzug \"FC St. Pauli\" zeigt, sichtbar.",
+        "take-care-alt": "Eine Hand mit blau lackierten Nägeln und einem silbernen Ring berührt sanft einen Aufkleber mit der Aufschrift \"Let's take care of each other\" auf einem dunklen Hintergrund."
+      }
     },
-    "2": {
-      "title": "Aufgesetzt in <br /> <3>wenigen</3> Minuten",
-      "text": "Es braucht nur drei simple Schritte und wenige Minuten, um die Infrastrukur unserer Anwendung aufzusetzen."
+    "setup": {
+      "title": "Aufgesetzt in <br /> <em>wenigen</em> Minuten",
+      "text": "Es braucht \n nur drei simple Schritte und wenige Minuten, um die Infrastruktur unserer Anwendung aufzusetzen.",
+      "steps": [
+        {
+          "title": "Check-in",
+          "description": "Bei einem kurzen Check-in teilt ihr uns mit, in welchem Kontext die saferspaces App eingesetzt werden soll.",
+          "content": "content"
+        },
+        {
+          "title": "Aufsetzen der Infrastruktur",
+          "description": "In unserer Verwaltung setzen wir innerhalb weniger Minuten die Infrastruktur für euren individuellen Kontext auf und stellen Euch die fertigen Druckdateien für die Plakate bereit.",
+          "content": "content"
+        },
+        {
+          "title": "Onboarding",
+          "description": "Bei einem kurzen Onboarding geben wir dem geschulten Team eine Einweisung zur Nutzung der Anwendung. Danach kann’s losgehen!",
+          "content": "content"
+        },
+        {
+          "title": "Drucken und Platzieren",
+          "description": "Damit die Menschen über die Plakate Kontakt zu dem geschulten Team aufnehmen können, müssen diese im Vorfeld gedruckt und gut sichtbar auf der Fläche platziert werden.",
+          "content": "content"
+        }
+      ]
     },
-    "3": {
-      "title": "<0>Must-haves</0> für <br />die Nutzung",
-      "text": "Um saferspaces erfolgreich einzusetzen, braucht es einzelne Grundvoraussetzungen, die sicherstellen, dass die Betreuung von Betroffenen bestmöglich umgesetzt wird. Weitere Infos dazu, wie unsere Anwendung ideal eingesetzt wird findest du hier."
+    "mustHaves": {
+      "title": "<em>Must-haves</em> für <br />die Nutzung",
+      "text": "Um saferspaces erfolgreich einzusetzen, braucht es einzelne Grundvoraussetzungen, die sicherstellen, dass die Betreuung von Betroffenen bestmöglich umgesetzt wird. Weitere Infos dazu, wie unsere Anwendung ideal eingesetzt wird findest du <2>hier</2>.",
+      "steps": [
+        {
+          "title": "Geschultes Personal",
+          "description": "Für die Nutzung von saferspaces braucht es  Personal, das über die Voraussetzungen für die Betreuung von Betroffenen verfügt. Wichtig ist zudem, dass in jedem Team auch Frauen vertreten sind, um eine bestmögliche Betreuung auch für Betroffene von sexualisierten Übergriffen sicherzustellen.",
+          "content": "/assets/icons/handshake.svg"
+        },
+        {
+          "title": "Stabiles Internet",
+          "description": "Da es sich bei saferspaces um eine webbasierte Software-Anwendung handelt, ist eine stabile Internetverbindung (zumindest für das Personal) die Grundlage für eine erfolgreiche Nutzung.",
+          "content": "/assets/icons/wifi.svg"
+        },
+        {
+          "title": "Saferspace",
+          "description": "Um eine bestmögliche Betreuung von Betroffenen sicherzustellen, können Rückzugsräume einen wichtigen Beitrag leisten. Sie bieten in Überforderungssituationen Schutz und Ruhe für die Verarbeitung des Erlebten.",
+          "content": "/assets/icons/awareness.svg"
+        }
+      ]
     },
-    "4": {
-      "title": "<0>Must-haves</0> für <br />die Nutzung",
-      "text": "Um saferspaces erfolgreich einzusetzen, braucht es einzelne Grundvoraussetzungen, die sicherstellen, dass die Betreuung von Betroffenen bestmöglich umgesetzt wird. Weitere Infos dazu, wie unsere Anwendung ideal eingesetzt wird findest du hier."
+    "pricing": {
+      "title": "Faire & <em>transparente</em> Preise",
+      "text_1": "Unser Ziel ist es, dass saferspaces an so vielen Orten wie möglich für ein sichereres und respektvolles Miteinander beiträgt. Daher haben wir uns für ein Preismodell entschieden, das insbesondere kleineren Veranstaltungsorten eine kostengünstige Nutzung ermöglicht.",
+      "text_2": "Neben der Nutzungsgebühr, die je nach Kontext einmalig oder monatlich anfällt, wird lediglich eine einmalige Gebühr für ein Onboarding berechnet.",
+      "text_3": "Grundsätzlich gilt: Bevor ihr die Anwendung nicht nutzt, da die Kosten den Rahmen übersteigen, kommt auf uns zu.",
+      "note": "Mit dem Preiskalkulator kannst du dir die Nutzungsgebühr einfach und transparent berechnen lassen.",
+      "usage": "Nutzung",
+      "permanent": "Dauerhaft",
+      "once": "Einmalig",
+      "capacity": "Kapazität",
+      "price": "Voraussichtlicher Preis",
+      "pricePerMonth": "pro Monat (12 Monate Laufzeit)",
+      "priceNote": " Alle Preise verstehen sich zuzüglich 19% MwSt.",
+      "getInTouch": "Jetzt buchen"
     },
-    "5": {
-      "title": "Saferspaces<br /> im <3>Einsatz</3>",
-      "text": "In unterschiedlichsten Kontexten wie in der Allianz Arena des FC Bayern München, dem Reeperbahn Festival, der Kieler Woche oder dem FC St. Pauli und auch im Rahmen der EURO 2024 ist unsere Anwendung bereits im Einsatz."
+    "venues": {
+      "title": "Saferspaces<br /> im <em>Einsatz</em>",
+      "text": "In unterschiedlichsten Kontexten wie in der Allianz Arena des FC Bayern München, dem Reeperbahn Festival, der Kieler Woche oder dem FC St. Pauli und auch im Rahmen der EURO 2024 ist unsere Anwendung bereits im Einsatz.",
+      "steps": [
+        {
+          "title": "OBACHT",
+          "description": "Das Awareness-Konzept des FC Bayern München. Hilfe für Betroffene, unterstützt durch saferspaces.",
+          "image": "/assets/images/obacht.png",
+          "imageAlt": "Grafisches Banner mit einem roten Hintergrund, der in verschiedene Schattierungen von Rot mit geometrischen Formen unterteilt ist. In großen weißen Buchstaben steht \"OBACHT\" in der Mitte des Bildes. Darunter in kleinerer Schrift \"UNSERE HALTUNG - UNSER ANSATZ\""
+        },
+        {
+          "title": "EURO 2024",
+          "description": "Im Rahmen der EURO 2024 sorgt saferspaces für mehr Sicherheit in den Stadien und auf den Fanzones.",
+          "image": "/assets/images/euro2024.png",
+          "imageAlt": "Grafik mit blauem Hintergrund und einer bunten, wellenförmigen Linie am unteren Rand. Text in Weiß und Gelb: \"#FOOTBALL DO YOU OR DOES SOMEONE ELSE NEED HELP? BRAUCHST DU ODER JEMAND ANDERS HILFE?\""
+        },
+        {
+          "title": "PAULIN",
+          "description": "Auch im Millerntor-Stadion des FC St. Pauli kommt saferspaces als Teil des Awareness-Konzeptes zum Einsatz.",
+          "image": "/assets/images/paulin.png",
+          "imageAlt": "Logo des \"Paulin Millerntor Awareness Team\" auf einem einfarbigen violetten Hintergrund. Das Logo besteht aus dem Wort \"PAULIN\" in Großbuchstaben, wobei das \"A\" durch ein Symbol ersetzt ist, das einem Auge ähnelt, umgeben von einem Dreieck und einem Kreis. Unterhalb des Haupttextes befindet sich der Schriftzug \"MILLERNTOR AWARENESS TEAM\" in kleineren Buchstaben."
+        },
+        {
+          "title": "Holstein Kiel",
+          "description": "In Kooperation mit dem KSV wird saferspaces bei Heimspielen im Holstein Stadion Kiel eingesetzt.",
+          "image": "/assets/images/ksv.png",
+          "imageAlt": "Zwei Personen von hinten gesehen, die auf einer Tribüne sitzen und auf ein Fußballspiel schauen. Sie tragen Jacken mit der Aufschrift \"Wilms Awareness\" in lila und schwarz. Im Hintergrund ist das beleuchtete Fußballfeld mit unscharfen Zuschauern zu erkennen."
+        },
+        {
+          "title": "Reeperbahn Festival",
+          "description": "Bereits seit 2022 wird saferspaces im Rahmen des Awareness-Konzeptes des Reeperbahn Festivals eingesetzt.",
+          "image": "/assets/images/rbf.png",
+          "imageAlt": "Ein Informationsstand im Freien mit der Aufschrift 'AWARENESS POINT' auf einem lila Banner. Der Stand ist mit einer schwarzen Theke ausgestattet, hinter der zwei Personen stehen. Auf der Theke befinden sich ein Laptop und eine Tischlampe. Der Stand ist beleuchtet und der Himmel im Hintergrund zeigt eine Dämmerung."
+        },
+        {
+          "title": "Kieler Woche",
+          "description": "Seit 2023 bietet saferspaces auf dem größten Sommerfest im Norden Europas die Möglichkeit Hilfe anzufordern.",
+          "image": "/assets/images/kiwo.png",
+          "imageAlt": "Ein runder Anstecker mit der Aufschrift \"Brauchst du oder jemand anders Hilfe?\" befestigt an einer lila Tasche. Der Button ist mehrfarbig mit blauen und orangen Streifen am Rand."
+        }
+      ]
     },
-    "6": {
-      "title": "Mit saferspaces <br /> <2>Impact</2> schaffen",
-      "text": "Um saferspaces erfolgreich einzusetzen, braucht es einzelne Grundvoraussetzungen, die sicherstellen, dass die Betreuung von Betroffenen bestmöglich umgesetzt wird. Weitere Infos dazu, wie unsere Anwendung ideal eingesetzt wird findest du hier."
+    "impact": {
+      "title": "Mit saferspaces <br /> <em>Impact</em> schaffen",
+      "text": "Um saferspaces erfolgreich einzusetzen, braucht es einzelne Grundvoraussetzungen, die sicherstellen, dass die Betreuung von Betroffenen bestmöglich umgesetzt wird. Weitere Infos dazu, wie unsere Anwendung ideal eingesetzt wird findest du hier.",
+      "steps": [
+        {
+          "title": "Inklusiv",
+          "description": "Mit saferspaces wird betroffenenorientiert gearbeitet, sodass ein Ort geschaffen wird, an dem sich alle Besuchenden sicher und aufgehoben fühlen und gerne wiederkehren. "
+        },
+        {
+          "title": "Integrativ",
+          "description": "Saferspaces ergänzt bestehende Sicherheitskonzepte durch einen innovativen Ansatz, der die aktuellen Herausforderungen unserer Gesellschaft aufgreift und sich für eine zukunftsorientierte Sicherheitsbranche einsetzt."
+        },
+        {
+          "title": "Informativ",
+          "description": "Bei jedem Einsatz von saferspaces werden anonyme Daten gesammelt, die wichtige Informationen über den jeweiligen Nutzungskontext liefern."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "hero": {
+      "title": "<0>Fragen</0> zur Nutzung von saferspaces",
+      "subtitle": "Solltest du noch weitere Fragen zur Nutzung von saferspaces haben, schreib uns gerne per Mail an kontakt@saferspaces.io"
+    },
+    "visitors": {
+      "title": "Fragen von Besuchenden",
+      "questions": [
+        {
+          "question": "Muss eine besuchende Person für die Nutzung von saferspaces eine App herunterladen?",
+          "answer": "Unser Ansatz ist es, die Möglichkeit, um Hilfe zu bitten, so niedrigschwellig und anonym wie möglich zu gestalten. Daher braucht ihr als Besuchende lediglich QR-Codes zu scannen, um Kontakt mit dem Awareness-Team aufzunehmen."
+        },
+        {
+          "question": "Muss eine besuchende Person ihren Standort freigeben?",
+          "answer": "Da jeder Code im Saferspaces-System mit einem individuellen Standort hinterlegt ist, brauchen Besuchende keine eigenen Standortinformationen zu übermitteln."
+        },
+        {
+          "question": "Was ist, wenn ich mich von dem Code wegbewegen möchte?",
+          "answer": "Wenn sich eine Person von dem Code wegbewegen möchte, kann die Standortfreigabe innerhalb des Chats freigeschaltet werden. Daraufhin kann das Awareness-Team die betroffene Person auch abseits des Code-Standorts auffinden, um zu helfen."
+        },
+        {
+          "question": "Was mache ich, wenn die Kamera im Club oder bei Veranstaltungen abgeklebt wird?",
+          "answer": "In Kontexten, in denen die Regelung gilt, die Handykameras abzukleben, wird diese Regelung ausschließlich für die Nutzung von Saferspaces aufgehoben."
+        },
+        {
+          "question": "Wie erfahre ich als besuchende Person von der Möglichkeit, die Codes zu nutzen?",
+          "answer": "An allen Orten, an denen saferspaces angeboten wird, findet ihr sowohl im Eingang als auch in den verschiedenen Räumen Beschilderungen, die zum einen auf die Anwendung hinweisen, als auch die Codes abbilden. Einige Clubs arbeiten zudem bereits mit einer Awareness-Ansprache beim Einlass. Das heißt, dass neben den allgemein geltenden Regeln auch das Angebot von saferspaces kurz erläutert wird."
+        },
+        {
+          "question": "Muss ich als besuchende Person meine Situation in einem Chat beschreiben?",
+          "answer": "Der Chat ist lediglich ein Angebot, das du nutzen kannst. Wenn du nichts schreibst, macht sich das Awareness-Team auch ohne eine Nachricht auf den Weg zu dir."
+        },
+        {
+          "question": "Was ist der Vorteil von den QR-Codes?",
+          "answer": "Neben der Tatsache, dass die Codes dir die Option bieten, auch anonym eine Situation zu melden, funktionieren sie zudem wie eine Brücke mit direktem Weg zu den Menschen, die geschult sind, auf kritische Situationen einzugehen und sich Betroffenen anzunehmen. Besuchende müssen nicht fremde Personen ansprechen, in der Hoffnung, diese nicht zu überfordern und die entsprechende Reaktion zu erhalten. Zudem brauchen Besuchende nicht wie bei anderen Ansätzen extra eine App herunterladen und in dem Zuge eine Vielzahl personenbezogener Daten zu übermitteln."
+        }
+      ]
+    },
+    "admins": {
+      "title": "Fragen von Veranstalter:innen",
+      "questions": [
+        {
+          "question": "Kann ich saferspaces auch für einmalige Veranstaltungen nutzen?",
+          "answer": "Saferspaces kann sowohl einmalig als auch dauerhaft eingesetzt werden. Durch den unkomplizierten und zielgerichteten Ansatz braucht es wenig Vorbereitung, um die Infrastruktur auch kurzfristig zu etablieren. Um sicherzugehen, dass geschultes Personal für die Betreuung möglicher Fälle vor Ort ist, können wir zudem gern bei der Vermittlung von entsprechendem Awareness Personal unterstützen."
+        },
+        {
+          "question": "Welche Kosten fallen für mich als Veranstalterin an?",
+          "answer": "Die Kosten orientieren sich an der maximalen Kapazität des Veranstaltungsorts. Einmalig fällt zudem eine Onboarding-Gebühr an, welche nach dem Aufsetzen dazu dient, das Setting einmal mit den entsprechenden Personen zu testen, letzte Fragen zu klären und sicherzustellen, dass geschultes Personal für die Annahme der Vorfälle und Betreuung von Betroffenen vorhanden sind."
+        },
+        {
+          "question": "Was ist der Vorteil von den QR-Codes?",
+          "answer": "Neben der Tatsache, dass die Codes für Eure Gäst:innen eine sehr niedrigschwellige Möglichkeit der Kontaktaufnahme zu dem Awareness-Personal bieten, haben sie weitere entscheidende Vorteile. Allein durch ihre Anwesenheit im Raum haben die Codes mit den Beschreibungen ihrer Funktion laut ersten Erfahrungsberichten bereits eine positive Wirkung auf die Atmosphäre unter den anwesenden Personen. Die Besuchenden erkennen ein ganzheitliches Sicherheitskonzept und Opportunisten werden von potenziellen Übergriffen im besten Fall abgehalten. Die QR-Codes haben zudem den Vorteil, dass für Besuchende einzig ein mobiles Endgerät genügt, um von dem Konzept zu profitieren. Es muss nicht extra eine App heruntergeladen werden. Um betroffene oder beobachtende Personen aufzufinden brauchen keine Standortinformationen der Gästinnen abgefragt zu werden, da allen Codes individuelle Standorte hinterlegt sind, welche beim Scan an das Team übermittelt werden."
+        },
+        {
+          "question": "Welche Infrastruktur brauche ich für die Bereitstellung von saferspaces?",
+          "answer": "Die wichtigste Voraussetzung ist eine funktionierende Internetabdeckung, damit die Scans verlässlich beim Awareness-Team eintreffen. Abhängig davon braucht ihr als Bereitsteller*innen von saferspaces lediglich ein Tablet (empfohlen) oder Telefon, um die eingehenden Fälle zu koordinieren. Neben der Anwendung können wir Euch gern auch bei der Infrastruktur und Bereitstellung der Hardware behilflich sein. Das gesamte System setzt sich aus drei Komponenten zusammen: Die Verwaltung, in der die Codes für den Anlass generiert werden und die gewünschten Funktionen (Chat, Standortfreigabe, Notfallnummer …) hinterlegt werden können. Einer App für die Awareness Teams, in der die Vorfälle eingehen und koordiniert werden. Den Codes für die Besuchenden und Mitarbeitenden für das Melden von unsicheren Situationen. Nebst der Technik ist es entscheidend, dass die Menschen, die die entsprechenden Fälle annehmen, im Umgang mit Betroffenen geschult sind. Wenn hier eine Schulung oder Fortbildung benötigt oder gewünscht wird, verbinden wir Euch gern mit den entsprechenden Initiativen."
+        },
+        {
+          "question": "Wie stelle ich sicher, dass die Meldungen auch tatsächlich gesehen werden?",
+          "answer": "Wichtig ist, dass mindestens eine Person sich im direkten Umfeld des Endgerätes befindet, welches die eingehenden Fälle aufzeigt. Sobald jemand einen Code scannt, fängt das Display an zu blinken und ein Signalton ertönt für eine Minute, oder bis der Fall angenommen wird."
+        },
+        {
+          "question": "Wie kann ich sicher sein, dass die Codes nicht missbräuchlich gescannt werden?",
+          "answer": "Aus den bisherigen Einsätzen können wir erfreulicherweise berichten, dass es bisher zu keiner einzigen missbräuchlichen Situation im Hinblick auf die Codes gegeben hat. Das hat sowohl mit Beschreibungen auf den Schildern zu tun, als auch mit den einzelnen Steps innerhalb der Anwendung. Nach dem Scan werden die Personen beispielsweise gebeten, noch zu präzisieren, ob es sich um eine beobachtende oder eine betroffene Person handelt. Zudem empfehlen wir eine kurze Ansprache beim Einlass, die sowohl auf den Wunsch eines respektvollen Miteinanders hinweist, und zudem mögliche Konsequenzen, wie ein Hausverbot aufzeigt, sofern sich nicht an die geltenden Regeln gehalten wird."
+        },
+        {
+          "question": "Können auch die Mitarbeitenden die Codes nutzen, wenn sie Unterstützung brauchen?",
+          "answer": "Es ist sogar ein wichtiger Teil unseres Ansatzes, denn viele Augen können besser darauf achten, dass es allen Anwesenden gut geht. Sowohl für eigene Fälle unsicherer Situationen als auch für Situationen, die beobachtet werden, hat das Personal die Möglichkeit, Unterstützung anzufordern. Hier gibt es die Option, sich vor Schichtbeginn über einen Scan einzuloggen und daraufhin nur über einen Button um Hilfe zu bitten. Für Mitarbeitende gibt es zudem zwei Auswahlmöglichkeiten für einen Hilferuf. Zum einen kann eine unsichere Situation gemeldet werden, damit sich eine Person auf den Weg macht, um zu unterstützen. Außerdem gibt es einen Notfall-Button, für Situationen, in denen nicht das Awareness-Team allein gebraucht wird, sondern zudem das Security-Personal unmittelbar zur Hilfe eilen sollte."
+        }
+      ]
+    },
+    "prerequisites": {
+      "title": "Voraussetzungen für die Nutzung",
+      "questions": [
+        {
+          "question": "Was bedeutet “geschultes Personal”?",
+          "answer": "Grundsätzlich gilt, dass überall dort, wo unsere Infrastruktur zum Einsatz kommt Personen vor Ort sind, die explizit für die Menschen da sind, die Unterstützung in Überforderungssituationen benötigen. Dieses „betroffenenorientierte” Personal unterscheidet sich insofern von den klassischen Sicherheitsmitarbeitenden, dass es nicht der Frage nachgeht, wer etwas getan hat. Awareness-Teams richten den Blick auf die Menschen die von Übergriffen und Diskriminierungen betroffen sind und legen somit den Fokus auf die Frage wem etwas passiert ist und wie einer hilfesuchenden Person bestmöglich geholfen werden kann."
+        },
+        {
+          "question": "Saferspace / Rückzugraum",
+          "answer": "Immer dann, wenn eine Person akute seelische Unterstützung benötigt, kann es notwendig sein, einen ruhigen Ort für die Betreuung und Unterstützung der Betroffenen/des Betroffenen anzubieten. Diese Orte sollten im besten Fall geschützt und abseits des Geschehen platziert sein."
+        },
+        {
+          "question": "Geschultes Personal / Grundvorrausetzungen",
+          "answer": "Das Team, welches mit unserer Anwendung im Einsatz ist sollte bestenfalls über entsprechende Vorerfahrung in der Awarenessarbeit verfügen. Sollte diese nicht gegeben sein können entsprechende Schulungen dabei helfen, ein betroffenenorientiertes Team aufzubauen. Gerne vermitteln wir – jeweils auf den Kontext ausgerichtet entsprechende Schulungsangebote von externen Anbietenden."
+        },
+        {
+          "question": "Diverse Teams M/W/D",
+          "answer": "Eine wichtige Grundvoraussetzung ist zudem, dass die Teams vielfältig ausgestellt sind. Da es im Zusammenhang mit Übergriffen und Diskriminierungen leider häufig betroffene weiblichgelesene Personen gibt, möchten wir sicherstellen, dass in jedem Team mindestens eine weibliche Person im Einsatz ist."
+        },
+        {
+          "question": "Mindestalter",
+          "answer": "Zudem legen wir Wert darauf, dass die Personen, die in der Betroffenenorientierten Arbeit mit saferspaces tätig sind ein Mindestalter von 23 Jahren haben oder über mehrmalige Erfahrungen in der Awareness-Arbeit verfügen."
+        },
+        {
+          "question": "Beruflicher Hintergrund",
+          "answer": "Obwohl es wünschenswert ist, dass die Mitglieder des Awareness-Teams aus dem sozialen, psychologischen oder medizinischen Bereich kommen, ist dies keine zwingende Voraussetzung. Wir legen Wert auf Vielfalt und ermutigen daher auch Personen mit anderen beruflichen Hintergründen, sich im Bereich Awareness weiterzubilden."
+        },
+        {
+          "question": "Grundsätzliches",
+          "answer": "Grundsätzlich empfehlen wir allen Nutzenden von saferspaces über die akute Hilfe von Betroffenen hinaus, sich mit grundlegender Awarenessarbeit im eigenen Kontext zu befassen. Das Ziel sollte es sein, dass Betroffenen sowohl im akut Fall geholfen wird- und zudem auch ein Fokus auf die Ursachen von Diskriminierungen und Übergriffen im eigenen Kontext und auf präventive Maßnahmen gerichtet wird. Wertvolle Informationen in diesem Zusammenhang sind beispielsweise unter folgenden Links zu finden"
+        }
+      ]
     }
   }
 }
