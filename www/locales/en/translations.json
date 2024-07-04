@@ -236,18 +236,21 @@
         {
           "title": "OBACHT",
           "description": "The awareness concept of FC Bayern Munich. Help for those affected, supported by saferspaces.",
+          "link": "https://fcbayern.com/de/news/2023/08/gemeinschaftsprojekt-mit-fans-und-fanprojekt-muenchen-obacht-fc-bayern-startet-awareness-konzept",
           "image": "/assets/images/obacht.png",
           "imageAlt": "Graphic banner with a red background divided into various shades of red with geometric shapes. In large white letters, 'OBACHT' is in the center of the image. Below it, in smaller text, 'OUR ATTITUDE - OUR APPROACH'."
         },
         {
           "title": "EURO 2024",
           "description": "During EURO 2024, saferspaces provides more security in the stadiums and fan zones.",
+          "link": "https://de.uefa.com/euro2024/news/028e-1b18f84e0244-2a6337fd188c-1000--upholding-and-protecting-human-rights-at-uefa-euro-2024/",
           "image": "/assets/images/euro2024.png",
           "imageAlt": "Graphic with a blue background and a colorful, wavy line at the bottom. Text in white and yellow: '#FOOTBALL DO YOU OR DOES SOMEONE ELSE NEED HELP? DO YOU OR SOMEONE ELSE NEED HELP?'"
         },
         {
           "title": "PAULIN",
           "description": "Saferspaces is also part of the awareness concept at FC St. Pauli's Millerntor Stadium.",
+          "link": "https://www.fcstpauli.com/news/awareness-teams-bei-heimspielen-des-fc-st-pauli-im-einsatz/",
           "image": "/assets/images/paulin.png",
           "imageAlt": "Logo of the 'Paulin Millerntor Awareness Team' on a solid violet background. The logo consists of the word 'PAULIN' in uppercase letters, with the 'A' replaced by a symbol resembling an eye, surrounded by a triangle and a circle. Below the main text, the inscription 'MILLERNTOR AWARENESS TEAM' is in smaller letters."
         },
@@ -260,12 +263,14 @@
         {
           "title": "Reeperbahn Festival",
           "description": "Since 2022, saferspaces has been part of the awareness concept at the Reeperbahn Festival.",
+          "link": "https://www.reeperbahnfestival.com/de/awareness-site",
           "image": "/assets/images/rbf.png",
           "imageAlt": "An outdoor information stand with the inscription 'AWARENESS POINT' on a purple banner. The stand has a black counter, behind which two people are standing. On the counter, there is a laptop and a desk lamp. The stand is illuminated, and the sky in the background shows twilight."
         },
         {
           "title": "Kiel Week",
           "description": "Since 2023, saferspaces has been offering the possibility to request help at the largest summer festival in northern Europe.",
+          "link": "https://www.kieler-woche.de/de/medien/meldung.php?id=126921",
           "image": "/assets/images/kiwo.png",
           "imageAlt": "A round badge with the inscription 'Do you or someone else need help?' attached to a purple bag. The button is multicolored with blue and orange stripes on the edge."
         }

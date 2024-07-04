@@ -245,18 +245,21 @@
         {
           "title": "OBACHT",
           "description": "Das Awareness-Konzept des FC Bayern München. Hilfe für Betroffene, unterstützt durch saferspaces.",
+          "link": "https://fcbayern.com/de/news/2023/08/gemeinschaftsprojekt-mit-fans-und-fanprojekt-muenchen-obacht-fc-bayern-startet-awareness-konzept",
           "image": "/assets/images/obacht.png",
           "imageAlt": "Grafisches Banner mit einem roten Hintergrund, der in verschiedene Schattierungen von Rot mit geometrischen Formen unterteilt ist. In großen weißen Buchstaben steht \"OBACHT\" in der Mitte des Bildes. Darunter in kleinerer Schrift \"UNSERE HALTUNG - UNSER ANSATZ\""
         },
         {
           "title": "EURO 2024",
           "description": "Im Rahmen der EURO 2024 sorgt saferspaces für mehr Sicherheit in den Stadien und auf den Fanzones.",
+          "link": "https://de.uefa.com/euro2024/news/028e-1b18f84e0244-2a6337fd188c-1000--upholding-and-protecting-human-rights-at-uefa-euro-2024/",
           "image": "/assets/images/euro2024.png",
           "imageAlt": "Grafik mit blauem Hintergrund und einer bunten, wellenförmigen Linie am unteren Rand. Text in Weiß und Gelb: \"#FOOTBALL DO YOU OR DOES SOMEONE ELSE NEED HELP? BRAUCHST DU ODER JEMAND ANDERS HILFE?\""
         },
         {
           "title": "PAULIN",
           "description": "Auch im Millerntor-Stadion des FC St. Pauli kommt saferspaces als Teil des Awareness-Konzeptes zum Einsatz.",
+          "link": "https://www.fcstpauli.com/news/awareness-teams-bei-heimspielen-des-fc-st-pauli-im-einsatz/",
           "image": "/assets/images/paulin.png",
           "imageAlt": "Logo des \"Paulin Millerntor Awareness Team\" auf einem einfarbigen violetten Hintergrund. Das Logo besteht aus dem Wort \"PAULIN\" in Großbuchstaben, wobei das \"A\" durch ein Symbol ersetzt ist, das einem Auge ähnelt, umgeben von einem Dreieck und einem Kreis. Unterhalb des Haupttextes befindet sich der Schriftzug \"MILLERNTOR AWARENESS TEAM\" in kleineren Buchstaben."
         },
@@ -269,12 +272,14 @@
         {
           "title": "Reeperbahn Festival",
           "description": "Bereits seit 2022 wird saferspaces im Rahmen des Awareness-Konzeptes des Reeperbahn Festivals eingesetzt.",
+          "link": "https://www.reeperbahnfestival.com/de/awareness-site",
           "image": "/assets/images/rbf.png",
           "imageAlt": "Ein Informationsstand im Freien mit der Aufschrift 'AWARENESS POINT' auf einem lila Banner. Der Stand ist mit einer schwarzen Theke ausgestattet, hinter der zwei Personen stehen. Auf der Theke befinden sich ein Laptop und eine Tischlampe. Der Stand ist beleuchtet und der Himmel im Hintergrund zeigt eine Dämmerung."
         },
         {
           "title": "Kieler Woche",
           "description": "Seit 2023 bietet saferspaces auf dem größten Sommerfest im Norden Europas die Möglichkeit Hilfe anzufordern.",
+          "link": "https://www.kieler-woche.de/de/medien/meldung.php?id=126921",
           "image": "/assets/images/kiwo.png",
           "imageAlt": "Ein runder Anstecker mit der Aufschrift \"Brauchst du oder jemand anders Hilfe?\" befestigt an einer lila Tasche. Der Button ist mehrfarbig mit blauen und orangen Streifen am Rand."
         }
