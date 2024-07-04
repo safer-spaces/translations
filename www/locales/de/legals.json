@@ -1,0 +1,358 @@
+{
+  "imprint": {
+    "title": "Impressum",
+    "content": [
+      { "paragraphs": [{ "type": "text", "text": "Angaben gemäß §5 TMG:" }] },
+      {
+        "headline": "Anschrift",
+        "paragraphs": [
+          { "type": "text", "text": "saferspaces GmbH" },
+          { "type": "text", "text": "c/o 104 VIERTEL GmbH & Ko. KG." },
+          { "type": "text", "text": "Gänsemarkt 33" },
+          { "type": "text", "text": "20354 Hamburg" }
+        ]
+      },
+      {
+        "paragraphs": [{ "type": "text", "text": "kontakt@saferspaces.io" }]
+      },
+      {
+        "paragraphs": [
+          {
+            "type": "text",
+            "text": "Geschäftsführung: Gerret Halberstadt, Leah-Marie Sophie Rott"
+          },
+          {
+            "type": "text",
+            "text": "Gesellschafter*innen: Gerret Halberstadt, Leah-Marie Sophie Rott, Patrick Carlet"
+          },
+          { "type": "text", "text": "Registergericht: Amtsgericht Hamburg" },
+          { "type": "text", "text": "Registernummer: HRB 183819" },
+          { "type": "text", "text": "USt- IDNr.: DE366222539" }
+        ]
+      }
+    ]
+  },
+  "disclaimer": {
+    "title": "Haftungsausschluss",
+    "content": [
+      {
+        "headline": "Haftung für Inhalte",
+        "paragraphs": [
+          {
+            "type": "text",
+            "text": "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen."
+          }
+        ]
+      },
+      {
+        "headline": "Haftung für Links",
+        "paragraphs": [
+          {
+            "type": "text",
+            "text": "Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen."
+          }
+        ]
+      },
+      {
+        "headline": "Urheberrecht",
+        "paragraphs": [
+          {
+            "type": "text",
+            "text": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen."
+          }
+        ]
+      },
+      {
+        "headline": "Datenschutz",
+        "paragraphs": [
+          {
+            "type": "text",
+            "text": "Für die Nutzung unserer Webseite ist Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor."
+          }
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "www": {
+      "title": "Datenschutzerklärung",
+      "content": [
+        {
+          "headline": "Allgemeiner Hinweis und Pflichtinformationen",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Benennung der verantwortlichen Stelle: saferspaces GmbH, c/o 104 VIERTEL GmbH & Ko. KG., Gänsemarkt 33, 20354 Hamburg. Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.)."
+            }
+          ]
+        },
+        {
+          "headline": "Widerruf Ihrer Einwilligung zur Datenverarbeitung",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Nur mit Ihrer ausdrücklichen Einwilligung sind einige Vorgänge der Datenverarbeitung möglich. Ein Widerruf Ihrer bereits erteilten Einwilligung ist jederzeit möglich. Für den Widerruf genügt eine formlose Mitteilung per E-Mail. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt."
+            }
+          ]
+        },
+        {
+          "headline": "Recht auf Beschwerde bei der zuständigen Aufsichtsbehörde",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Als Betroffener steht Ihnen im Falle eines datenschutzrechtlichen Verstoßes ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu. Zuständige Aufsichtsbehörde bezüglich datenschutzrechtlicher Fragen ist der Landesdatenschutzbeauftragte des Bundeslandes, in dem sich der Sitz unseres Unternehmens befindet."
+            }
+          ]
+        },
+        {
+          "headline": "Recht auf Datenübertragbarkeit",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Ihnen steht das Recht zu, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an Dritte aushändigen zu lassen. Die Bereitstellung erfolgt in einem maschinenlesbaren Format. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist."
+            }
+          ]
+        },
+        {
+          "headline": "Recht auf Auskunft, Berichtigung, Sperrung, Löschung",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Sie haben jederzeit im Rahmen der geltenden gesetzlichen Bestimmungen das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, Herkunft der Daten, deren Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten."
+            }
+          ]
+        },
+        {
+          "headline": "SSL- bzw. TLS-Verschlüsselung",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, die Sie an uns als Seitenbetreiber senden, nutzt unsere Website eine SSL- bzw. TLS-Verschlüsselung. Damit sind Daten, die Sie über diese Website übermitteln, für Dritte nicht mitlesbar. Sie erkennen eine verschlüsselte Verbindung an der „https://“ Adresszeile Ihres Browsers und am Schloss-Symbol in der Browserzeile."
+            }
+          ]
+        },
+        {
+          "headline": "Server-Log-Dateien",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "In Server-Log-Dateien erhebt und speichert der Provider der Website automatisch Informationen, die Ihr Browser automatisch an uns übermittelt. Dies sind: Besuchte Seite auf unserer Domain, Datum und Uhrzeit der Serveranfrage, Browsertyp und Browserversion, verwendetes Betriebssystem, Referrer URL, Hostname des zugreifenden Rechners, IP-Adresse. Es findet keine Zusammenführung dieser Daten mit anderen Datenquellen statt. Grundlage der Datenverarbeitung bildet Art. 6 Abs. 1 lit. b DSGVO, der die Verarbeitung von Daten zur Erfüllung eines Vertrags oder vorvertraglicher Maßnahmen gestattet."
+            }
+          ]
+        },
+        {
+          "headline": "Registrierung auf dieser Website",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Zur Nutzung bestimmter Funktionen können Sie sich auf unserer Website registrieren. Die übermittelten Daten dienen ausschließlich zum Zwecke der Nutzung des jeweiligen Angebotes oder Dienstes. Die Verarbeitung der bei der Registrierung eingegebenen Daten erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Ein Widerruf Ihrer bereits erteilten Einwilligung ist jederzeit möglich."
+            }
+          ]
+        },
+        {
+          "headline": "Google Web Fonts",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "Unsere Website verwendet Web Fonts von Google. Durch den Einsatz dieser Web Fonts wird es möglich Ihnen die von uns gewünschte Darstellung unserer Website zu präsentieren, unabhängig davon welche Schriften Ihnen lokal zur Verfügung stehen. Der Einsatz von Google Web Fonts erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO."
+            }
+          ]
+        }
+      ]
+    },
+    "mobile": {
+      "privacy": {
+        "title": "Datenschutzerklärung für mobile Apps",
+        "subtitle": "Verwendung unserer mobilen App",
+        "content": [
+          {
+            "headline": "§ 1 Information über die Verarbeitung personenbezogener Daten",
+            "paragraphs": [
+              {
+                "type": "text",
+                "text": "(1) Wir stellen die safer spaces-App zur Verfügung, die auf mobilen Endgeräten als App (saferspaces - Security) bzw. als Web-App betrieben werden kann. Im Folgenden informieren wir über die Verarbeitung personenbezogener Daten bei Nutzung unserer mobilen App. Personenbezogene Daten sind alle Daten, die auf Sie persönlich beziehbar sind, zB Name, Adresse, E-Mail-Adressen, Nutzerverhalten."
+              },
+              {
+                "type": "text",
+                "text": "(2) Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DS-GVO) ist die saferspaces GmbH,  c/o 104 VIERTEL GmbH & Ko. KG. Gänsemarkt 33 20354 Hamburg, kontakt@saferspaces.io."
+              },
+              {
+                "type": "text",
+                "text": "(3) Bei Ihrer Kontaktaufnahme mit uns per E-Mail oder über ein Kontaktformular werden die von Ihnen mitgeteilten Daten (Ihre E-Mail-Adresse, ggf. Ihr Name und Ihre Telefonnummer) von uns gespeichert, um Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden Daten löschen wir, falls die Anfrage einem Vertrag zugeordnet wird, nach den Fristen zur Vertragslaufzeit, ansonsten nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen."
+              },
+              {
+                "type": "text",
+                "text": "(4) Falls wir für einzelne Funktionen unseres Angebots auf beauftragte Dienstleister zurückgreifen, werden wir diese Dienstleister stets sorgfältig auswählen und überwachen und informieren Sie untenstehend im Detail über die jeweiligen Vorgänge. Dabei nennen wir auch die festgelegten Kriterien der Speicherdauer."
+              }
+            ]
+          },
+          {
+            "headline": "§ 2 Ihre Rechte",
+            "paragraphs": [
+              {
+                "type": "text",
+                "text": "(1) Sie haben gegenüber einem Verantwortlichen folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:"
+              },
+              {
+                "type": "list",
+                "li": [
+                  { "type": "li", "text": "Recht auf Auskunft" },
+                  {
+                    "type": "li",
+                    "text": "Recht auf Berichtigung oder Löschung"
+                  },
+                  {
+                    "type": "li",
+                    "text": "Recht auf Einschränkung der Verarbeitung"
+                  },
+                  {
+                    "type": "li",
+                    "text": "Recht auf Widerspruch gegen die Verarbeitung"
+                  },
+                  { "type": "li", "text": "Recht auf Datenübertragbarkeit" }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "(2) Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren."
+              }
+            ]
+          },
+          {
+            "headline": "§ 3 Verarbeitung personenbezogener Daten bei Nutzung unserer mobilen App",
+            "paragraphs": [
+              {
+                "type": "text",
+                "text": "(1) Bei Herunterladen der mobilen App werden die erforderlichen Informationen an den App Store übertragen, also insbesondere Nutzername, E-Mail-Adresse und Kundennummer Ihres Accounts, Zeitpunkt des Downloads, Zahlungsinformationen und die individuelle Gerätekennziffer. Zudem erhebt der App-Store noch eigenständig verschiedene Daten und stellt Ihnen Analyseergebnisse zur Verfügung. Auf diese Datenverarbeitung haben wir keinen Einfluss und sind nicht dafür verantwortlich. Wir verarbeiten die Daten nur, soweit es für das Herunterladen der mobilen App auf Ihr mobiles Endgerät notwendig ist."
+              },
+              {
+                "type": "text",
+                "text": "(2) Bei Nutzung der App verarbeiten wir die nachfolgend beschriebenen personenbezogenen Daten, um die komfortable Nutzung der Funktionen zu ermöglichen. Wenn Sie unsere mobile App nutzen möchten, verarbeiten wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen die Funktionen unserer mobilen App anzubieten und die Stabilität und Sicherheit zu gewährleisten, sodass sie von uns verarbeitet werden müssen. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO:"
+              },
+              {
+                "type": "list",
+                "li": [
+                  { "type": "li", "text": "IP-Adresse" },
+                  { "type": "li", "text": "Datum und Uhrzeit der Anfrage" },
+                  {
+                    "type": "li",
+                    "text": "Zeitzonendifferenz zur Greenwich Mean Time (GMT)"
+                  },
+                  {
+                    "type": "li",
+                    "text": "Inhalt der Anforderung (konkrete Seite)"
+                  },
+                  { "type": "li", "text": "Zugriffsstatus/HTTP-Statuscode" },
+                  { "type": "li", "text": "jeweils übertragene Datenmenge" },
+                  {
+                    "type": "li",
+                    "text": "Website, von der die Anforderung kommt"
+                  },
+                  { "type": "li", "text": "Browser" },
+                  {
+                    "type": "li",
+                    "text": "Betriebssystem und dessen Oberfläche"
+                  },
+                  {
+                    "type": "li",
+                    "text": "Sprache und Version der Browsersoftware"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "(3) Weiterhin benötigen wir zur Erbringung der Leistungen der App ihre Gerätekennzeichnung, eindeutige Nummer des Endgerätes (IMEI = International Mobile Equipment Identity), eindeutige Nummer des Netzteilnehmers (IMSI = International Mobile Subscriber Identity), Mobilfunknummer (MSISDN), MAC-Adresse für WLAN-Nutzung, Name Ihres mobilen Endgerätes, E-Mail-Adresse."
+              },
+              {
+                "type": "text",
+                "text": "(4) Je nach Anwendung verarbeiten wir zusätzlich folgende personenbezogene Daten:"
+              },
+              {
+                "type": "list",
+                "li": [
+                  {
+                    "type": "li",
+                    "text": "WebApp für Besuchende: Bei aktivierter Chatfunktion werden die Nachrichten für maximal 7 Tage gespeichert und danach automatisiert gelöscht. Bei aktivierter Standortfreigabe werden die Geokoordinaten des mobilen Endgeräts für maximal 1 Stunde gespeichert, bzw. direkt nach Beendigung der Freigabe gelöscht. Dies ist nötig, um den Standort auf einer Karte darzustellen um die betreffende Person zu finden."
+                  },
+                  {
+                    "type": "li",
+                    "text": "App für Security: Bei aktivierter Chatfunktion werden die Nachrichten für maximal 7 Tage gespeichert und danach automatisiert gelöscht. Bei aktivierter Standortfreigabe wird der eigene Standort zur Orientierung auf der Karte lediglich auf dem jweiligen Endgerät genutzt."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "headline": "§ 4 Datenverarbeitung durch Dritte",
+            "paragraphs": [
+              {
+                "type": "text",
+                "text": "(1) Auftragsdatenverarbeitung"
+              },
+              {
+                "type": "list",
+                "li": [
+                  {
+                    "type": "li",
+                    "text": "Es kann vorkommen, dass für einzelne Funktionen unserer App auf beauftragte Dienstleister zurückgegriffen wird. Wie bei jedem größeren Unternehmen, setzen auch wir zur Abwicklung unseres Geschäftsverkehrs externe in- und ausländische Dienstleister ein. Diese werden nur nach unserer Weisung tätig und wurden iSv Art. 28 DS-GVO vertraglich dazu verpflichtet, die datenschutzrechtlichen Bestimmungen einzuhalten."
+                  },
+                  {
+                    "type": "ul",
+                    "text": "Folgende Kategorien von Empfängern, bei denen es sich im Regelfall um Auftragsverarbeiter handelt, erhalten ggf. Zugriff auf Ihre personenbezogenen Daten:",
+                    "li": [
+                      {
+                        "type": "li",
+                        "text": "Dienstleister für den Betrieb unserer App und die Verarbeitung der durch die Systeme gespeicherten oder übermittelten Daten (zB für Rechenzentrumsleistungen, Zahlungsabwicklungen, IT-Sicherheit). Rechtsgrundlage für die Weitergabe ist dann Art. 6 Abs. 1 S. 1 lit. b oder lit. f DS-GVO, soweit es sich nicht um Auftragsverarbeiter handelt;"
+                      },
+                      {
+                        "type": "li",
+                        "text": "Staatliche Stellen/Behörden, soweit dies zur Erfüllung einer gesetzlichen Verpflichtung erforderlich ist. Rechtsgrundlage für die Weitergabe ist dann Art. 6 Abs. 1 S. 1 lit. c DS-GVO;"
+                      },
+                      {
+                        "type": "li",
+                        "text": "Zur Durchführung unseres Geschäftsbetriebs eingesetzte Personen (zB Auditoren, Banken, Versicherungen, Rechtsberater, Aufsichtsbehörden, Beteiligte bei Unternehmenskäufen oder der Gründung von Gemeinschaftsunternehmen). Rechtsgrundlage für die Weitergabe ist dann Art. 6 Abs. 1 S. 1 lit. b oder lit. f DS-GVO."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "li",
+                    "text": "Darüber hinaus geben wir Ihre personenbezogenen Daten nur an Dritte weiter, wenn Sie nach Art. 6 Abs. 1 S. 1 lit. a DS-GVO eine ausdrückliche Einwilligung dazu erteilt haben."
+                  },
+                  {
+                    "type": "li",
+                    "text": "Sofern personenbezogene Daten von Ihnen durch uns an unsere Tochtergesellschaften weitergegeben werden oder von unseren Tochtergesellschaften an uns weitergegeben werden (zB zu werblichen Zwecken), geschieht dies aufgrund von bestehenden Auftragsverarbeitungsverhältnissen."
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "(2) Voraussetzungen der Weitergabe von personenbezogenen Daten an Drittländer"
+              },
+              {
+                "type": "list",
+                "li": [
+                  {
+                    "type": "li",
+                    "text": "Im Rahmen unserer Geschäftsbeziehungen können Ihre personenbezogenen Daten an Drittgesellschaften weitergegeben oder offengelegt werden. Diese können sich auch außerhalb des Europäischen Wirtschaftsraums (EWR), also in Drittländern, befinden. Eine derartige Verarbeitung erfolgt ausschließlich zur Erfüllung der vertraglichen und geschäftlichen Verpflichtungen und zur Pflege Ihrer Geschäftsbeziehung zu uns. Über die jeweiligen Einzelheiten der Weitergabe unterrichten wir Sie nachfolgend an den dafür relevanten Stellen."
+                  },
+                  {
+                    "type": "li",
+                    "text": "Einigen Drittländern bescheinigt die Europäische Kommission durch sog. Angemessenheitsbeschlüsse einen Datenschutz, der dem EWR-Standard vergleichbar ist (eine Liste dieser Länder sowie eine Kopie der Angemessenheitsbeschlüsse erhalten Sie hier: http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.html). In anderen Drittländern, in die ggf. personenbezogene Daten übertragen werden, herrscht aber unter Umständen wegen fehlender gesetzlicher Bestimmungen kein durchgängig hohes Datenschutzniveau. Soweit dies der Fall ist, achten wir darauf, dass der Datenschutz ausreichend gewährleistet ist. Möglich ist dies über bindende Unternehmensvorschriften, Standard-Vertragsklauseln der Europäischen Kommission zum Schutz personenbezogener Daten, Zertifikate oder anerkannte Verhaltenskodizes."
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "text": "(3) Gesetzliche Verpflichtung zur Übermittlung bestimmter Daten"
+              },
+              {
+                "type": "text",
+                "text": "Wir können unter Umständen einer besonderen gesetzlichen oder rechtlichen Verpflichtung unterliegen, die rechtmäßig verarbeiteten personenbezogenen Daten für Dritte, insbesondere öffentlichen Stellen, bereitzustellen (Art. 6 Abs. 1 S. 1 lit. c DS-GVO)."
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

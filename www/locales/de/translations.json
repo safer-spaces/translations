@@ -44,7 +44,12 @@
     },
     "directContactViaQrCode": {
       "title": "<0>Anonym</0> und <br /> <2>niedrigschwellig</2>",
-      "text": "Über den Scan von standortbasierten QR-Codes auf den saferspaces Plakaten kann einfach und niedrigschwellig Kontakt zu geschultem Personal aufgenommen werden. Dieses weiß unmittelbar, wo sich die hilfesuchende Person befindet und kann sich direkt auf den Weg machen."
+      "text": "Über den Scan von standortbasierten QR-Codes auf den saferspaces Plakaten kann einfach und niedrigschwellig Kontakt zu geschultem Personal aufgenommen werden. Dieses weiß unmittelbar, wo sich die hilfesuchende Person befindet und kann sich direkt auf den Weg machen.",
+      "accessibility": {
+        "poster": "Ein Plakat hängt an einer Wand. Auf diesem steht 'Brauchst du oder jemand anders Hilfe?'. In der rechten unteren Ecke ist ein QR Code.",
+        "mockup": "Eine Hand hält ein Smartphone. Auf dem Display ist die saferspaces WebApp geöffnet. Oben steht 'Wir sind für dich da'. Da drunter sind drei Auswahlmöglichkeiten: 1. Ich bin Betroffene*r, 2. Ich bin Boebachter*in, 3. Direkt anrufen.",
+        "chat": "Ein geöffneter Chat ist zu sehen. Oben steht 'Haupteingang'. Vor 48 Sekunden. Unser Team hat deine Nachricht erhalten. Darunter sind ein paar Nachrichten zu sehen."
+      }
     },
     "digitalAwarenessApproach": {
       "title": "Sicherheit <em>weiter</em> gedacht",

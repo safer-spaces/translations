@@ -40,7 +40,12 @@
     },
     "directContactViaQrCode": {
       "title": "<0>Anonymous</0> and <br /> easily accessible",
-      "text": "By scanning location-based QR codes on the saferspaces posters, contact with trained staff can be established easily and at a low threshold. The staff will immediately know the location of the person seeking help and can respond immediately."
+      "text": "By scanning location-based QR codes on the saferspaces posters, contact with trained staff can be established easily and at a low threshold. The staff will immediately know the location of the person seeking help and can respond immediately.",
+      "accessibility": {
+        "poster": "A poster is hanging on a wall. It reads 'Do you or someone else need help?'. In the bottom right corner is a QR Code.",
+        "mockup": "A hand is holding a smartphone. The saferspaces WebApp is open on the display. At the top it reads 'We are here for you'. Below that are three options: 1. I am affected, 2. I am an observer, 3. Call directly.",
+        "chat": "An open chat is visible. At the top it reads 'Main entrance'. 48 seconds ago. Our team has received your message. Below that, a few messages can be seen."
+      }
     },
     "digitalAwarenessApproach": {
       "title": "An <1>innovative</1> approach to <3>awareness</3>",
@@ -149,7 +154,6 @@
       "description": "Interested in saferspaces or have questions about the application? Book a quick meeting here."
     }
   },
-
   "business": {
     "hero": {
       "title": "Security <em>reimagined</em>",

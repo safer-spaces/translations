@@ -1,0 +1,106 @@
+{
+  "imprint": {
+    "title": "Impressum",
+    "alternates": {
+      "canonical": "https://www.saferspaces.io/imprint",
+      "types": {
+        "de": "https://www.saferspaces.io/de/imprint",
+        "en": "https://www.saferspaces.io/en/imprint"
+      }
+    }
+  },
+  "data": {
+    "title": "Datenschutzerklärung",
+    "alternates": {
+      "canonical": "https://www.saferspaces.io/data",
+      "types": {
+        "de": "https://www.saferspaces.io/de/data",
+        "en": "https://www.saferspaces.io/en/data"
+      }
+    }
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen zur Nutzung von saferspaces",
+    "description": "Antworten auf die häufigsten Fragen zur Nutzung von saferspaces, einschließlich Details zur QR-Code-Nutzung, Standortfreigabe, Anonymität und Vorteilen für Besuchende und Veranstalter.",
+    "keywords": [
+      "saferspaces",
+      "FAQ",
+      "häufige Fragen",
+      "Sicherheit",
+      "Anonymität",
+      "QR-Codes",
+      "Veranstaltungssicherheit",
+      "niedrigschwellig",
+      "Standortfreigabe",
+      "anonyme Hilfe"
+    ],
+    "alternates": {
+      "canonical": "https://www.saferspaces.io/faq",
+      "types": {
+        "de": "https://www.saferspaces.io/de/faq",
+        "en": "https://www.saferspaces.io/en/faq"
+      }
+    },
+    "og": {
+      "title": "FAQ zur Nutzung von saferspaces",
+      "description": "Erfahren Sie mehr über die Nutzung von saferspaces, die QR-Codes für schnelle und anonyme Hilfe an Veranstaltungsorten und vielen anderen Kontexten.",
+      "image": "/assets/images/desktop/de:mockup.webp"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "FAQ zu saferspaces",
+      "description": "Finden Sie Antworten auf Ihre Fragen zu saferspaces, von QR-Code-Nutzung bis zur Sicherheit bei Veranstaltungen. Lesen Sie mehr in unseren FAQ.",
+      "image": "/assets/images/desktop/de:mockup.webp"
+    }
+  },
+  "home": {
+    "title": "Saferspaces – Anonyme und niedrigschwellige Hilfe durch QR-Code-Kontakt",
+    "description": "Saferspaces, eine innovative Softwarelösung für anonyme und unmittelbare Unterstützung in Notlagen durch QR-Code-Scans. Unsere Anwendung verbessert die Sicherheit und fördert ein respektvolles Miteinander in verschiedenen Kontexten.",
+    "keywords": [
+      "Saferspaces",
+      "Sicherheit",
+      "anonymes Melden",
+      "QR-Codes",
+      "Awareness",
+      "Standortübermittlung",
+      "mehrsprachige Unterstützung",
+      "Betroffenenorientierung",
+      "Datenschutz",
+      "Sicherheitslösung"
+    ],
+    "alternates": {
+      "canonical": "https://www.saferspaces.io",
+      "types": {
+        "de": "https://www.saferspaces.io/de",
+        "en": "https://www.saferspaces.io/en"
+      }
+    },
+    "og": {
+      "title": "Saferspaces – Sicherheit und Respekt durch innovative QR-Code-Lösung",
+      "description": "Saferspaces bietet anonyme, schnelle Hilfe in Notlagen durch einfaches Scannen von QR-Codes. Erfahren Sie mehr über unsere Features und Vorteile.",
+      "image": "/assets/images/desktop/de:mockup.webp"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Entdecken Sie Saferspaces – Ihre Sicherheitslösung",
+      "description": "Mit Saferspaces erhalten Sie unmittelbare Hilfe durch diskrete, anonyme QR-Code-Scans. Sicherheit neu definiert für alle Arten von Veranstaltungen und Einrichtungen.",
+      "image": "/assets/images/desktop/de:mockup.webp"
+    }
+  },
+  "business": {
+    "title": "Saferspaces - Sicherheit weiter gedacht",
+    "description": "Saferspaces ergänzt bestehende Sicherheitskonzepte durch einen innovativen Ansatz, der den Fokus auf Betroffene richtet und sich für ein respektvolles Miteinander einsetzt.",
+    "keywords": [
+      "Saferspaces",
+      "Sicherheit",
+      "anonymes Melden",
+      "QR-Codes",
+      "Awareness",
+      "Standortübermittlung",
+      "mehrsprachige Unterstützung",
+      "Betroffenenorientierung",
+      "Datenschutz",
+      "Sicherheitslösung"
+    ]
+  }
+}
