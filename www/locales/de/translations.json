@@ -9,7 +9,7 @@
     "flag_other": "Flaggen",
     "variables": "{{ count }} flags for {{ user }}",
     "navigation": {
-      "appointment": "Jetzt buchen",
+      "appointment": "Demo buchen",
       "login": "Login",
       "imprint": "Impressum",
       "privacy": "Datenschutz",
@@ -155,8 +155,8 @@
       ]
     },
     "contact": {
-      "title": "Jetzt <1>Termin</1> <br /> vereinbaren",
-      "description": "Du hast Interesse an der Nutzung von saferspaces oder Fragen zur Anwendung? Dann buche hier einen kurzen Termin.",
+      "title": "Jetzt <1>Demo</1> <br /> buchen",
+      "description": "Du bist interessiert an der Nutzung von saferspaces? Wir stellen dir gerne die vielfältigen Funktionen unserer Anwendung vor. Buche hier einen kurzen kostenlosen Termin. Wir freuen uns auf den Austausch!",
       "accessibility": {
         "image_1": "Ein Mann und eine Frau sitzen lächelnd auf einem grünen, gemusterten Sofa in einem hell erleuchteten Raum. Die Frau trägt eine graue Jacke und Jeans mit neongelben Turnschuhen, während der Mann ein blaues Hemd mit Blumenmuster und schwarze Jeans trägt.",
         "image_2": "Werbeposter an einer Außenwand mit dem Slogan 'We've got your back' in großen lila Buchstaben auf einem lavendelfarbenen Hintergrund. Über dem Text ist ein stilisiertes weißes Auge abgebildet. Im oberen linken Bereich des Posters steht das Log von 'saferspaces'."
@@ -236,7 +236,7 @@
       "price": "Voraussichtlicher Preis",
       "pricePerMonth": "pro Monat (12 Monate Laufzeit)",
       "priceNote": " Alle Preise verstehen sich zuzüglich 19% MwSt.",
-      "getInTouch": "Jetzt buchen"
+      "getInTouch": "Demo buchen"
     },
     "venues": {
       "title": "Saferspaces<br /> im <em>Einsatz</em>",

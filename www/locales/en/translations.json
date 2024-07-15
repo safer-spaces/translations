@@ -8,14 +8,14 @@
     "navigation": {
       "imprint": "Imprint",
       "privacy": "Privacy",
-      "appointment": "Get in touch",
+      "appointment": "Book a demo",
       "login": "Login",
       "faq": "FAQ",
       "home": {
         "title": "Our approach"
       },
       "business": {
-        "title": "For companies",
+        "title": "For customers",
         "mustHaves": "Must-haves",
         "pricing": "Pricing"
       },
@@ -130,7 +130,7 @@
           "company": "Landesfrauenrat Hamburg e.V."
         },
         {
-          "text": "We have the impression that our audience - through the address and use of the app - directly takes more care of each other.",
+          "text": "Our impression is, that only by using saferspaces the audience is taking better care of each other",
           "name": "Fenja Möller",
           "position": "Booking Agent & Promoter",
           "company": "Karsten Jahnke Konzertdirektion"
@@ -150,8 +150,8 @@
       ]
     },
     "contact": {
-      "title": "Get in touch now",
-      "description": "Interested in saferspaces or have questions about the application? Book a quick meeting here."
+      "title": "Let's get in <1>touch</1>",
+      "description": "Are you interested in using saferspaces? We are happy to introduce you to the diverse functions of our application. Book a short and free appointment here. We're looking forward to meet you!"
     }
   },
   "business": {
@@ -227,7 +227,7 @@
       "price": "Estimated price",
       "pricePerMonth": "per month (12-month term)",
       "priceNote": " All prices are subject to an additional 19% VAT.",
-      "getInTouch": "Get in touch"
+      "getInTouch": "Book a demo"
     },
     "venues": {
       "title": "Saferspaces<br /> in <em>use</em>",
