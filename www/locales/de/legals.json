@@ -161,198 +161,196 @@
       ]
     },
     "mobile": {
-      "privacy": {
-        "title": "Datenschutzerklärung für mobile Apps",
-        "subtitle": "Verwendung unserer mobilen App",
-        "content": [
-          {
-            "headline": "§ 1 Information über die Verarbeitung personenbezogener Daten",
-            "paragraphs": [
-              {
-                "type": "text",
-                "text": "(1) Wir stellen die safer spaces-App zur Verfügung, die auf mobilen Endgeräten als App (saferspaces - Security) bzw. als Web-App betrieben werden kann. Im Folgenden informieren wir über die Verarbeitung personenbezogener Daten bei Nutzung unserer mobilen App. Personenbezogene Daten sind alle Daten, die auf Sie persönlich beziehbar sind, zB Name, Adresse, E-Mail-Adressen, Nutzerverhalten."
-              },
-              {
-                "type": "text",
-                "text": "(2) Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DS-GVO) ist die saferspaces GmbH,  c/o 104 VIERTEL GmbH & Ko. KG. Gänsemarkt 33 20354 Hamburg, kontakt@saferspaces.io."
-              },
-              {
-                "type": "text",
-                "text": "(3) Bei Ihrer Kontaktaufnahme mit uns per E-Mail oder über ein Kontaktformular werden die von Ihnen mitgeteilten Daten (Ihre E-Mail-Adresse, ggf. Ihr Name und Ihre Telefonnummer) von uns gespeichert, um Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden Daten löschen wir, falls die Anfrage einem Vertrag zugeordnet wird, nach den Fristen zur Vertragslaufzeit, ansonsten nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen."
-              },
-              {
-                "type": "text",
-                "text": "(4) Falls wir für einzelne Funktionen unseres Angebots auf beauftragte Dienstleister zurückgreifen, werden wir diese Dienstleister stets sorgfältig auswählen und überwachen und informieren Sie untenstehend im Detail über die jeweiligen Vorgänge. Dabei nennen wir auch die festgelegten Kriterien der Speicherdauer."
-              }
-            ]
-          },
-          {
-            "headline": "§ 2 Ihre Rechte",
-            "paragraphs": [
-              {
-                "type": "text",
-                "text": "(1) Sie haben gegenüber einem Verantwortlichen folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:"
-              },
-              {
-                "type": "list",
-                "li": [
-                  { "type": "li", "text": "Recht auf Auskunft" },
-                  {
-                    "type": "li",
-                    "text": "Recht auf Berichtigung oder Löschung"
-                  },
-                  {
-                    "type": "li",
-                    "text": "Recht auf Einschränkung der Verarbeitung"
-                  },
-                  {
-                    "type": "li",
-                    "text": "Recht auf Widerspruch gegen die Verarbeitung"
-                  },
-                  { "type": "li", "text": "Recht auf Datenübertragbarkeit" }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "(2) Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren."
-              }
-            ]
-          },
-          {
-            "headline": "§ 3 Verarbeitung personenbezogener Daten bei Nutzung unserer mobilen App",
-            "paragraphs": [
-              {
-                "type": "text",
-                "text": "(1) Bei Herunterladen der mobilen App werden die erforderlichen Informationen an den App Store übertragen, also insbesondere Nutzername, E-Mail-Adresse und Kundennummer Ihres Accounts, Zeitpunkt des Downloads, Zahlungsinformationen und die individuelle Gerätekennziffer. Zudem erhebt der App-Store noch eigenständig verschiedene Daten und stellt Ihnen Analyseergebnisse zur Verfügung. Auf diese Datenverarbeitung haben wir keinen Einfluss und sind nicht dafür verantwortlich. Wir verarbeiten die Daten nur, soweit es für das Herunterladen der mobilen App auf Ihr mobiles Endgerät notwendig ist."
-              },
-              {
-                "type": "text",
-                "text": "(2) Bei Nutzung der App verarbeiten wir die nachfolgend beschriebenen personenbezogenen Daten, um die komfortable Nutzung der Funktionen zu ermöglichen. Wenn Sie unsere mobile App nutzen möchten, verarbeiten wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen die Funktionen unserer mobilen App anzubieten und die Stabilität und Sicherheit zu gewährleisten, sodass sie von uns verarbeitet werden müssen. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO:"
-              },
-              {
-                "type": "list",
-                "li": [
-                  { "type": "li", "text": "IP-Adresse" },
-                  { "type": "li", "text": "Datum und Uhrzeit der Anfrage" },
-                  {
-                    "type": "li",
-                    "text": "Zeitzonendifferenz zur Greenwich Mean Time (GMT)"
-                  },
-                  {
-                    "type": "li",
-                    "text": "Inhalt der Anforderung (konkrete Seite)"
-                  },
-                  { "type": "li", "text": "Zugriffsstatus/HTTP-Statuscode" },
-                  { "type": "li", "text": "jeweils übertragene Datenmenge" },
-                  {
-                    "type": "li",
-                    "text": "Website, von der die Anforderung kommt"
-                  },
-                  { "type": "li", "text": "Browser" },
-                  {
-                    "type": "li",
-                    "text": "Betriebssystem und dessen Oberfläche"
-                  },
-                  {
-                    "type": "li",
-                    "text": "Sprache und Version der Browsersoftware"
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "(3) Weiterhin benötigen wir zur Erbringung der Leistungen der App ihre Gerätekennzeichnung, eindeutige Nummer des Endgerätes (IMEI = International Mobile Equipment Identity), eindeutige Nummer des Netzteilnehmers (IMSI = International Mobile Subscriber Identity), Mobilfunknummer (MSISDN), MAC-Adresse für WLAN-Nutzung, Name Ihres mobilen Endgerätes, E-Mail-Adresse."
-              },
-              {
-                "type": "text",
-                "text": "(4) Je nach Anwendung verarbeiten wir zusätzlich folgende personenbezogene Daten:"
-              },
-              {
-                "type": "list",
-                "li": [
-                  {
-                    "type": "li",
-                    "text": "WebApp für Besuchende: Bei aktivierter Chatfunktion werden die Nachrichten für maximal 7 Tage gespeichert und danach automatisiert gelöscht. Bei aktivierter Standortfreigabe werden die Geokoordinaten des mobilen Endgeräts für maximal 1 Stunde gespeichert, bzw. direkt nach Beendigung der Freigabe gelöscht. Dies ist nötig, um den Standort auf einer Karte darzustellen um die betreffende Person zu finden."
-                  },
-                  {
-                    "type": "li",
-                    "text": "App für Security: Bei aktivierter Chatfunktion werden die Nachrichten für maximal 7 Tage gespeichert und danach automatisiert gelöscht. Bei aktivierter Standortfreigabe wird der eigene Standort zur Orientierung auf der Karte lediglich auf dem jweiligen Endgerät genutzt."
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "headline": "§ 4 Datenverarbeitung durch Dritte",
-            "paragraphs": [
-              {
-                "type": "text",
-                "text": "(1) Auftragsdatenverarbeitung"
-              },
-              {
-                "type": "list",
-                "li": [
-                  {
-                    "type": "li",
-                    "text": "Es kann vorkommen, dass für einzelne Funktionen unserer App auf beauftragte Dienstleister zurückgegriffen wird. Wie bei jedem größeren Unternehmen, setzen auch wir zur Abwicklung unseres Geschäftsverkehrs externe in- und ausländische Dienstleister ein. Diese werden nur nach unserer Weisung tätig und wurden iSv Art. 28 DS-GVO vertraglich dazu verpflichtet, die datenschutzrechtlichen Bestimmungen einzuhalten."
-                  },
-                  {
-                    "type": "ul",
-                    "text": "Folgende Kategorien von Empfängern, bei denen es sich im Regelfall um Auftragsverarbeiter handelt, erhalten ggf. Zugriff auf Ihre personenbezogenen Daten:",
-                    "li": [
-                      {
-                        "type": "li",
-                        "text": "Dienstleister für den Betrieb unserer App und die Verarbeitung der durch die Systeme gespeicherten oder übermittelten Daten (zB für Rechenzentrumsleistungen, Zahlungsabwicklungen, IT-Sicherheit). Rechtsgrundlage für die Weitergabe ist dann Art. 6 Abs. 1 S. 1 lit. b oder lit. f DS-GVO, soweit es sich nicht um Auftragsverarbeiter handelt;"
-                      },
-                      {
-                        "type": "li",
-                        "text": "Staatliche Stellen/Behörden, soweit dies zur Erfüllung einer gesetzlichen Verpflichtung erforderlich ist. Rechtsgrundlage für die Weitergabe ist dann Art. 6 Abs. 1 S. 1 lit. c DS-GVO;"
-                      },
-                      {
-                        "type": "li",
-                        "text": "Zur Durchführung unseres Geschäftsbetriebs eingesetzte Personen (zB Auditoren, Banken, Versicherungen, Rechtsberater, Aufsichtsbehörden, Beteiligte bei Unternehmenskäufen oder der Gründung von Gemeinschaftsunternehmen). Rechtsgrundlage für die Weitergabe ist dann Art. 6 Abs. 1 S. 1 lit. b oder lit. f DS-GVO."
-                      }
-                    ]
-                  },
-                  {
-                    "type": "li",
-                    "text": "Darüber hinaus geben wir Ihre personenbezogenen Daten nur an Dritte weiter, wenn Sie nach Art. 6 Abs. 1 S. 1 lit. a DS-GVO eine ausdrückliche Einwilligung dazu erteilt haben."
-                  },
-                  {
-                    "type": "li",
-                    "text": "Sofern personenbezogene Daten von Ihnen durch uns an unsere Tochtergesellschaften weitergegeben werden oder von unseren Tochtergesellschaften an uns weitergegeben werden (zB zu werblichen Zwecken), geschieht dies aufgrund von bestehenden Auftragsverarbeitungsverhältnissen."
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "(2) Voraussetzungen der Weitergabe von personenbezogenen Daten an Drittländer"
-              },
-              {
-                "type": "list",
-                "li": [
-                  {
-                    "type": "li",
-                    "text": "Im Rahmen unserer Geschäftsbeziehungen können Ihre personenbezogenen Daten an Drittgesellschaften weitergegeben oder offengelegt werden. Diese können sich auch außerhalb des Europäischen Wirtschaftsraums (EWR), also in Drittländern, befinden. Eine derartige Verarbeitung erfolgt ausschließlich zur Erfüllung der vertraglichen und geschäftlichen Verpflichtungen und zur Pflege Ihrer Geschäftsbeziehung zu uns. Über die jeweiligen Einzelheiten der Weitergabe unterrichten wir Sie nachfolgend an den dafür relevanten Stellen."
-                  },
-                  {
-                    "type": "li",
-                    "text": "Einigen Drittländern bescheinigt die Europäische Kommission durch sog. Angemessenheitsbeschlüsse einen Datenschutz, der dem EWR-Standard vergleichbar ist (eine Liste dieser Länder sowie eine Kopie der Angemessenheitsbeschlüsse erhalten Sie hier: http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.html). In anderen Drittländern, in die ggf. personenbezogene Daten übertragen werden, herrscht aber unter Umständen wegen fehlender gesetzlicher Bestimmungen kein durchgängig hohes Datenschutzniveau. Soweit dies der Fall ist, achten wir darauf, dass der Datenschutz ausreichend gewährleistet ist. Möglich ist dies über bindende Unternehmensvorschriften, Standard-Vertragsklauseln der Europäischen Kommission zum Schutz personenbezogener Daten, Zertifikate oder anerkannte Verhaltenskodizes."
-                  }
-                ]
-              },
-              {
-                "type": "text",
-                "text": "(3) Gesetzliche Verpflichtung zur Übermittlung bestimmter Daten"
-              },
-              {
-                "type": "text",
-                "text": "Wir können unter Umständen einer besonderen gesetzlichen oder rechtlichen Verpflichtung unterliegen, die rechtmäßig verarbeiteten personenbezogenen Daten für Dritte, insbesondere öffentlichen Stellen, bereitzustellen (Art. 6 Abs. 1 S. 1 lit. c DS-GVO)."
-              }
-            ]
-          }
-        ]
-      }
+      "title": "Datenschutzerklärung für mobile Apps",
+      "subtitle": "Verwendung unserer mobilen App",
+      "content": [
+        {
+          "headline": "§ 1 Information über die Verarbeitung personenbezogener Daten",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "(1) Wir stellen die safer spaces-App zur Verfügung, die auf mobilen Endgeräten als App (saferspaces - Security) bzw. als Web-App betrieben werden kann. Im Folgenden informieren wir über die Verarbeitung personenbezogener Daten bei Nutzung unserer mobilen App. Personenbezogene Daten sind alle Daten, die auf Sie persönlich beziehbar sind, zB Name, Adresse, E-Mail-Adressen, Nutzerverhalten."
+            },
+            {
+              "type": "text",
+              "text": "(2) Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DS-GVO) ist die saferspaces GmbH,  c/o 104 VIERTEL GmbH & Ko. KG. Gänsemarkt 33 20354 Hamburg, kontakt@saferspaces.io."
+            },
+            {
+              "type": "text",
+              "text": "(3) Bei Ihrer Kontaktaufnahme mit uns per E-Mail oder über ein Kontaktformular werden die von Ihnen mitgeteilten Daten (Ihre E-Mail-Adresse, ggf. Ihr Name und Ihre Telefonnummer) von uns gespeichert, um Ihre Fragen zu beantworten. Die in diesem Zusammenhang anfallenden Daten löschen wir, falls die Anfrage einem Vertrag zugeordnet wird, nach den Fristen zur Vertragslaufzeit, ansonsten nachdem die Speicherung nicht mehr erforderlich ist, oder schränken die Verarbeitung ein, falls gesetzliche Aufbewahrungspflichten bestehen."
+            },
+            {
+              "type": "text",
+              "text": "(4) Falls wir für einzelne Funktionen unseres Angebots auf beauftragte Dienstleister zurückgreifen, werden wir diese Dienstleister stets sorgfältig auswählen und überwachen und informieren Sie untenstehend im Detail über die jeweiligen Vorgänge. Dabei nennen wir auch die festgelegten Kriterien der Speicherdauer."
+            }
+          ]
+        },
+        {
+          "headline": "§ 2 Ihre Rechte",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "(1) Sie haben gegenüber einem Verantwortlichen folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:"
+            },
+            {
+              "type": "list",
+              "li": [
+                { "type": "li", "text": "Recht auf Auskunft" },
+                {
+                  "type": "li",
+                  "text": "Recht auf Berichtigung oder Löschung"
+                },
+                {
+                  "type": "li",
+                  "text": "Recht auf Einschränkung der Verarbeitung"
+                },
+                {
+                  "type": "li",
+                  "text": "Recht auf Widerspruch gegen die Verarbeitung"
+                },
+                { "type": "li", "text": "Recht auf Datenübertragbarkeit" }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "(2) Sie haben zudem das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten durch uns zu beschweren."
+            }
+          ]
+        },
+        {
+          "headline": "§ 3 Verarbeitung personenbezogener Daten bei Nutzung unserer mobilen App",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "(1) Bei Herunterladen der mobilen App werden die erforderlichen Informationen an den App Store übertragen, also insbesondere Nutzername, E-Mail-Adresse und Kundennummer Ihres Accounts, Zeitpunkt des Downloads, Zahlungsinformationen und die individuelle Gerätekennziffer. Zudem erhebt der App-Store noch eigenständig verschiedene Daten und stellt Ihnen Analyseergebnisse zur Verfügung. Auf diese Datenverarbeitung haben wir keinen Einfluss und sind nicht dafür verantwortlich. Wir verarbeiten die Daten nur, soweit es für das Herunterladen der mobilen App auf Ihr mobiles Endgerät notwendig ist."
+            },
+            {
+              "type": "text",
+              "text": "(2) Bei Nutzung der App verarbeiten wir die nachfolgend beschriebenen personenbezogenen Daten, um die komfortable Nutzung der Funktionen zu ermöglichen. Wenn Sie unsere mobile App nutzen möchten, verarbeiten wir die folgenden Daten, die für uns technisch erforderlich sind, um Ihnen die Funktionen unserer mobilen App anzubieten und die Stabilität und Sicherheit zu gewährleisten, sodass sie von uns verarbeitet werden müssen. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DS-GVO:"
+            },
+            {
+              "type": "list",
+              "li": [
+                { "type": "li", "text": "IP-Adresse" },
+                { "type": "li", "text": "Datum und Uhrzeit der Anfrage" },
+                {
+                  "type": "li",
+                  "text": "Zeitzonendifferenz zur Greenwich Mean Time (GMT)"
+                },
+                {
+                  "type": "li",
+                  "text": "Inhalt der Anforderung (konkrete Seite)"
+                },
+                { "type": "li", "text": "Zugriffsstatus/HTTP-Statuscode" },
+                { "type": "li", "text": "jeweils übertragene Datenmenge" },
+                {
+                  "type": "li",
+                  "text": "Website, von der die Anforderung kommt"
+                },
+                { "type": "li", "text": "Browser" },
+                {
+                  "type": "li",
+                  "text": "Betriebssystem und dessen Oberfläche"
+                },
+                {
+                  "type": "li",
+                  "text": "Sprache und Version der Browsersoftware"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "(3) Weiterhin benötigen wir zur Erbringung der Leistungen der App ihre Gerätekennzeichnung, eindeutige Nummer des Endgerätes (IMEI = International Mobile Equipment Identity), eindeutige Nummer des Netzteilnehmers (IMSI = International Mobile Subscriber Identity), Mobilfunknummer (MSISDN), MAC-Adresse für WLAN-Nutzung, Name Ihres mobilen Endgerätes, E-Mail-Adresse."
+            },
+            {
+              "type": "text",
+              "text": "(4) Je nach Anwendung verarbeiten wir zusätzlich folgende personenbezogene Daten:"
+            },
+            {
+              "type": "list",
+              "li": [
+                {
+                  "type": "li",
+                  "text": "WebApp für Besuchende: Bei aktivierter Chatfunktion werden die Nachrichten für maximal 7 Tage gespeichert und danach automatisiert gelöscht. Bei aktivierter Standortfreigabe werden die Geokoordinaten des mobilen Endgeräts für maximal 1 Stunde gespeichert, bzw. direkt nach Beendigung der Freigabe gelöscht. Dies ist nötig, um den Standort auf einer Karte darzustellen um die betreffende Person zu finden."
+                },
+                {
+                  "type": "li",
+                  "text": "App für Security: Bei aktivierter Chatfunktion werden die Nachrichten für maximal 7 Tage gespeichert und danach automatisiert gelöscht. Bei aktivierter Standortfreigabe wird der eigene Standort zur Orientierung auf der Karte lediglich auf dem jweiligen Endgerät genutzt."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "headline": "§ 4 Datenverarbeitung durch Dritte",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "(1) Auftragsdatenverarbeitung"
+            },
+            {
+              "type": "list",
+              "li": [
+                {
+                  "type": "li",
+                  "text": "Es kann vorkommen, dass für einzelne Funktionen unserer App auf beauftragte Dienstleister zurückgegriffen wird. Wie bei jedem größeren Unternehmen, setzen auch wir zur Abwicklung unseres Geschäftsverkehrs externe in- und ausländische Dienstleister ein. Diese werden nur nach unserer Weisung tätig und wurden iSv Art. 28 DS-GVO vertraglich dazu verpflichtet, die datenschutzrechtlichen Bestimmungen einzuhalten."
+                },
+                {
+                  "type": "ul",
+                  "text": "Folgende Kategorien von Empfängern, bei denen es sich im Regelfall um Auftragsverarbeiter handelt, erhalten ggf. Zugriff auf Ihre personenbezogenen Daten:",
+                  "li": [
+                    {
+                      "type": "li",
+                      "text": "Dienstleister für den Betrieb unserer App und die Verarbeitung der durch die Systeme gespeicherten oder übermittelten Daten (zB für Rechenzentrumsleistungen, Zahlungsabwicklungen, IT-Sicherheit). Rechtsgrundlage für die Weitergabe ist dann Art. 6 Abs. 1 S. 1 lit. b oder lit. f DS-GVO, soweit es sich nicht um Auftragsverarbeiter handelt;"
+                    },
+                    {
+                      "type": "li",
+                      "text": "Staatliche Stellen/Behörden, soweit dies zur Erfüllung einer gesetzlichen Verpflichtung erforderlich ist. Rechtsgrundlage für die Weitergabe ist dann Art. 6 Abs. 1 S. 1 lit. c DS-GVO;"
+                    },
+                    {
+                      "type": "li",
+                      "text": "Zur Durchführung unseres Geschäftsbetriebs eingesetzte Personen (zB Auditoren, Banken, Versicherungen, Rechtsberater, Aufsichtsbehörden, Beteiligte bei Unternehmenskäufen oder der Gründung von Gemeinschaftsunternehmen). Rechtsgrundlage für die Weitergabe ist dann Art. 6 Abs. 1 S. 1 lit. b oder lit. f DS-GVO."
+                    }
+                  ]
+                },
+                {
+                  "type": "li",
+                  "text": "Darüber hinaus geben wir Ihre personenbezogenen Daten nur an Dritte weiter, wenn Sie nach Art. 6 Abs. 1 S. 1 lit. a DS-GVO eine ausdrückliche Einwilligung dazu erteilt haben."
+                },
+                {
+                  "type": "li",
+                  "text": "Sofern personenbezogene Daten von Ihnen durch uns an unsere Tochtergesellschaften weitergegeben werden oder von unseren Tochtergesellschaften an uns weitergegeben werden (zB zu werblichen Zwecken), geschieht dies aufgrund von bestehenden Auftragsverarbeitungsverhältnissen."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "(2) Voraussetzungen der Weitergabe von personenbezogenen Daten an Drittländer"
+            },
+            {
+              "type": "list",
+              "li": [
+                {
+                  "type": "li",
+                  "text": "Im Rahmen unserer Geschäftsbeziehungen können Ihre personenbezogenen Daten an Drittgesellschaften weitergegeben oder offengelegt werden. Diese können sich auch außerhalb des Europäischen Wirtschaftsraums (EWR), also in Drittländern, befinden. Eine derartige Verarbeitung erfolgt ausschließlich zur Erfüllung der vertraglichen und geschäftlichen Verpflichtungen und zur Pflege Ihrer Geschäftsbeziehung zu uns. Über die jeweiligen Einzelheiten der Weitergabe unterrichten wir Sie nachfolgend an den dafür relevanten Stellen."
+                },
+                {
+                  "type": "li",
+                  "text": "Einigen Drittländern bescheinigt die Europäische Kommission durch sog. Angemessenheitsbeschlüsse einen Datenschutz, der dem EWR-Standard vergleichbar ist (eine Liste dieser Länder sowie eine Kopie der Angemessenheitsbeschlüsse erhalten Sie hier: http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.html). In anderen Drittländern, in die ggf. personenbezogene Daten übertragen werden, herrscht aber unter Umständen wegen fehlender gesetzlicher Bestimmungen kein durchgängig hohes Datenschutzniveau. Soweit dies der Fall ist, achten wir darauf, dass der Datenschutz ausreichend gewährleistet ist. Möglich ist dies über bindende Unternehmensvorschriften, Standard-Vertragsklauseln der Europäischen Kommission zum Schutz personenbezogener Daten, Zertifikate oder anerkannte Verhaltenskodizes."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "(3) Gesetzliche Verpflichtung zur Übermittlung bestimmter Daten"
+            },
+            {
+              "type": "text",
+              "text": "Wir können unter Umständen einer besonderen gesetzlichen oder rechtlichen Verpflichtung unterliegen, die rechtmäßig verarbeiteten personenbezogenen Daten für Dritte, insbesondere öffentlichen Stellen, bereitzustellen (Art. 6 Abs. 1 S. 1 lit. c DS-GVO)."
+            }
+          ]
+        }
+      ]
     }
   }
 }

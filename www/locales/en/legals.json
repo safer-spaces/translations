@@ -118,6 +118,192 @@
           ]
         }
       ]
+    },
+    "mobile": {
+      "title": "Privacy Policy for Mobile Apps",
+      "subtitle": "Use of Our Mobile App",
+      "content": [
+        {
+          "headline": "§ 1 Information about the Processing of Personal Data",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "(1) We provide the safer spaces app, which can be operated on mobile devices as an app (saferspaces - Security) or as a web app. Below, we inform you about the processing of personal data when using our mobile app. Personal data is all data that can be related to you personally, e.g., name, address, email addresses, user behavior."
+            },
+            {
+              "type": "text",
+              "text": "(2) The controller pursuant to Art. 4 para. 7 EU General Data Protection Regulation (GDPR) is saferspaces GmbH, c/o 104 VIERTEL GmbH & Co. KG. Gänsemarkt 33 20354 Hamburg, contact@saferspaces.io."
+            },
+            {
+              "type": "text",
+              "text": "(3) When you contact us by email or via a contact form, the data you provide (your email address, possibly your name and phone number) will be stored by us to answer your questions. We delete the data arising in this context once storage is no longer necessary, or we restrict the processing if there are statutory retention obligations."
+            },
+            {
+              "type": "text",
+              "text": "(4) If we use commissioned service providers for individual functions of our offer, we will carefully select and monitor these service providers and inform you in detail about the respective processes below. We also name the established criteria for the storage period."
+            }
+          ]
+        },
+        {
+          "headline": "§ 2 Your Rights",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "(1) You have the following rights towards the controller regarding your personal data:"
+            },
+            {
+              "type": "list",
+              "li": [
+                { "type": "li", "text": "Right to access" },
+                { "type": "li", "text": "Right to rectification or erasure" },
+                {
+                  "type": "li",
+                  "text": "Right to restriction of processing"
+                },
+                { "type": "li", "text": "Right to object to processing" },
+                { "type": "li", "text": "Right to data portability" }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "(2) You also have the right to lodge a complaint with a data protection supervisory authority regarding our processing of your personal data."
+            }
+          ]
+        },
+        {
+          "headline": "§ 3 Processing of Personal Data when Using Our Mobile App",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "(1) When downloading the mobile app, the necessary information is transferred to the App Store, in particular, username, email address, and customer number of your account, time of download, payment information, and the individual device identifier. The App Store also independently collects various data and provides you with analysis results. We have no control over this data processing and are not responsible for it. We only process the data insofar as it is necessary for downloading the mobile app to your mobile device."
+            },
+            {
+              "type": "text",
+              "text": "(2) When using the app, we process the personal data described below to enable the convenient use of the functions. If you want to use our mobile app, we process the following data, which is technically necessary for us to offer you the functions of our mobile app and to ensure stability and security, so they must be processed by us. The legal basis is Art. 6 para. 1 sentence 1 lit. f GDPR:"
+            },
+            {
+              "type": "list",
+              "li": [
+                { "type": "li", "text": "IP address" },
+                { "type": "li", "text": "Date and time of the request" },
+                {
+                  "type": "li",
+                  "text": "Time zone difference to Greenwich Mean Time (GMT)"
+                },
+                {
+                  "type": "li",
+                  "text": "Content of the request (specific page)"
+                },
+                { "type": "li", "text": "Access status/HTTP status code" },
+                { "type": "li", "text": "Amount of data transferred" },
+                {
+                  "type": "li",
+                  "text": "Website from which the request comes"
+                },
+                { "type": "li", "text": "Browser" },
+                {
+                  "type": "li",
+                  "text": "Operating system and its interface"
+                },
+                {
+                  "type": "li",
+                  "text": "Language and version of the browser software"
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "(3) Furthermore, we need the following personal data for the provision of the app's services: device identification, unique number of the device (IMEI = International Mobile Equipment Identity), unique number of the network subscriber (IMSI = International Mobile Subscriber Identity), mobile phone number (MSISDN), MAC address for WLAN use, name of your mobile device, email address."
+            },
+            {
+              "type": "text",
+              "text": "(4) Depending on the application, we additionally process the following personal data:"
+            },
+            {
+              "type": "list",
+              "li": [
+                {
+                  "type": "li",
+                  "text": "WebApp for visitors: When the chat function is enabled, messages are stored for a maximum of 7 days and then automatically deleted. When location sharing is enabled, the geocoordinates of the mobile device are stored for a maximum of 1 hour or deleted immediately after sharing is ended. This is necessary to display the location on a map to find the relevant person."
+                },
+                {
+                  "type": "li",
+                  "text": "App for Security: When the chat function is enabled, messages are stored for a maximum of 7 days and then automatically deleted. When location sharing is enabled, the own location is used for orientation on the map only on the respective device."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "headline": "§ 4 Data Processing by Third Parties",
+          "paragraphs": [
+            {
+              "type": "text",
+              "text": "(1) Order Data Processing"
+            },
+            {
+              "type": "list",
+              "li": [
+                {
+                  "type": "li",
+                  "text": "It may happen that commissioned service providers are used for individual functions of our app. Like any large company, we also use external domestic and foreign service providers to handle our business transactions. These act only on our instructions and have been contractually obligated to comply with data protection regulations in accordance with Art. 28 GDPR."
+                },
+                {
+                  "type": "ul",
+                  "text": "The following categories of recipients, who are usually processors, may have access to your personal data:",
+                  "li": [
+                    {
+                      "type": "li",
+                      "text": "Service providers for the operation of our app and the processing of the data stored or transmitted by the systems (e.g., for data center services, payment processing, IT security). The legal basis for the transfer is then Art. 6 para. 1 sentence 1 lit. b or lit. f GDPR, as far as they are not processors;"
+                    },
+                    {
+                      "type": "li",
+                      "text": "Public authorities, as far as this is necessary to fulfill a legal obligation. The legal basis for the transfer is then Art. 6 para. 1 sentence 1 lit. c GDPR;"
+                    },
+                    {
+                      "type": "li",
+                      "text": "Persons employed in the operation of our business (e.g., auditors, banks, insurers, legal advisors, supervisory authorities, parties involved in company acquisitions or the establishment of joint ventures). The legal basis for the transfer is then Art. 6 para. 1 sentence 1 lit. b or lit. f GDPR."
+                    }
+                  ]
+                },
+                {
+                  "type": "li",
+                  "text": "In addition, we only pass on your personal data to third parties if you have given your express consent according to Art. 6 para. 1 sentence 1 lit. a GDPR."
+                },
+                {
+                  "type": "li",
+                  "text": "If personal data is transmitted to our subsidiaries or from our subsidiaries to us (e.g., for advertising purposes), this is based on existing processing relationships."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "(2) Conditions for the Transfer of Personal Data to Third Countries"
+            },
+            {
+              "type": "list",
+              "li": [
+                {
+                  "type": "li",
+                  "text": "In the context of our business relationships, your personal data may be transferred to or disclosed to third-party companies. These may also be located outside the European Economic Area (EEA), i.e., in third countries. Such processing takes place only to fulfill contractual and business obligations and to maintain your business relationship with us. We inform you about the specific details of the transfer at the relevant points below."
+                },
+                {
+                  "type": "li",
+                  "text": "Some third countries are certified by the European Commission through so-called adequacy decisions as having a level of data protection comparable to the EEA standard (a list of these countries and a copy of the adequacy decisions can be found here: http://ec.europa.eu/justice/data-protection/international-transfers/adequacy/index_en.html). In other third countries to which personal data may be transferred, there may not be a consistently high level of data protection due to a lack of legal provisions. If this is the case, we ensure that data protection is adequately guaranteed. This can be achieved through binding corporate rules, standard contractual clauses of the European Commission for the protection of personal data, certificates, or recognized codes of conduct."
+                }
+              ]
+            },
+            {
+              "type": "text",
+              "text": "(3) Legal Obligation to Transmit Certain Data"
+            },
+            {
+              "type": "text",
+              "text": "We may be subject to a specific legal or regulatory obligation to provide lawfully processed personal data to third parties, particularly public authorities (Art. 6 para. 1 sentence 1 lit. c GDPR)."
+            }
+          ]
+        }
+      ]
     }
   }
 }
