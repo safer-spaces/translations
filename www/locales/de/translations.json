@@ -129,6 +129,12 @@
       "description": "Unsere Anwendung ist seit 2021 im Nachtleben, im Profisport, bei Großveranstaltungen, in Unternehmen und vielen weiteren Orten erfolgreich für ein respektvolleres Miteinander im Einsatz.",
       "quotes": [
         {
+          "text": "Durch die Nutzung werden wir unnötige Zeitverluste bei der Standortbestimmung des Notfalls durch Funkstörungen, nicht verständliche Durchsagen usw. verhindern und somit den Hilfestandard im Stadion erhöhen",
+          "name": "Sven Brux",
+          "position": "Leitung Spieltagsorganisation & Fanangelegenheiten",
+          "company": "FC St. Pauli"
+        },
+        {
           "text": "Wir haben den Eindruck, dass unser Publikum – durch die Ansprache und Nutzen der App – direkt mehr aufeinander acht gibt.",
           "name": "Fenja Möller",
           "position": "Bookerin",
@@ -139,12 +145,6 @@
           "name": "Sandra Lechtenböhmer",
           "position": "Leiterin Awareness",
           "company": "Millerntor Gallery"
-        },
-        {
-          "text": "Durch die Nutzung werden wir unnötige Zeitverluste bei der Standortbestimmung des Notfalls durch Funkstörungen, nicht verständliche Durchsagen usw. verhindern und somit den Hilfestandard im Stadion erhöhen",
-          "name": "Sven Brux",
-          "position": "Leitung Spieltagsorganisation & Fanangelegenheiten",
-          "company": "FC St. Pauli"
         }
       ]
     },

@@ -124,6 +124,12 @@
       "description": "Since 2021, our application has been used effectively in various sectors including nightlife, professional sports, major events and corporate environments, fostering a culture of respect and promoting safer environments.",
       "quotes": [
         {
+          "text": "By using saferspaces, we will avoid unnecessary loss of time in determining the location of the emergency due to radio interference, incomprehensible announcements, etc. and thus raise the standard of security and help in the stadium",
+          "name": "Sven Brux",
+          "position": "Head of Matchday Organization & Fan Affairs",
+          "company": "FC St. Pauli"
+        },
+        {
           "text": "Our impression is, that only by using saferspaces the audience is taking better care of each other",
           "name": "Fenja Möller",
           "position": "Booking",
@@ -134,12 +140,6 @@
           "name": "Sandra Lechtenböhmer",
           "position": "Head of Awareness",
           "company": "Millerntor Gallery"
-        },
-        {
-          "text": "By using saferspaces, we will avoid unnecessary loss of time in determining the location of the emergency due to radio interference, incomprehensible announcements, etc. and thus raise the standard of security and help in the stadium",
-          "name": "Sven Brux",
-          "position": "Head of Matchday Organization & Fan Affairs",
-          "company": "FC St. Pauli"
         }
       ]
     },
