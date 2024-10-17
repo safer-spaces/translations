@@ -40,7 +40,7 @@
     },
     "directContactViaQrCode": {
       "title": "<0>Anonymous</0> and <br /> easily accessible",
-      "text": "By scanning location-based QR codes on the saferspaces posters, contact with trained staff can be established easily and at a low threshold. The staff will immediately know the location of the person seeking help and can respond immediately.",
+      "text": "By scanning location-based QR codes on saferspaces posters, individuals can easily and with minimal barriers establish contact with trained staff. The staff will immediately know the location of the person seeking help and can respond right away.",
       "accessibility": {
         "poster": "A poster is hanging on a wall. It reads 'Do you or someone else need help?'. In the bottom right corner is a QR Code.",
         "mockup": "A hand is holding a smartphone. The saferspaces WebApp is open on the display. At the top it reads 'We are here for you'. Below that are three options: 1. I am affected, 2. I am an observer, 3. Call directly.",
@@ -48,43 +48,43 @@
       }
     },
     "digitalAwarenessApproach": {
-      "title": "An <1>innovative</1> approach to <3>awareness</3>",
-      "text": "With saferspaces, we are shifting the focus from „<1>who</1> did <3>what</3>?“ to „<5>who</5> was <7>affected</7>?“, taking a modern approach. Our application not only provides immediate assistance to those affected, but also provides valuable insights to improve awareness efforts in specific usage contexts."
+      "title": "An <1>innovative</1> approach to <3>security</3>",
+      "text": "With saferspaces, we are shifting the focus from „<1>who</1> did <3>what</3>?“ to „<5>who</5> was <7>affected</7>?“, adopting a modern approach. Our application not only provides immediate assistance to those affected but also offers valuable insights to enhance awareness efforts in specific contexts."
     },
     "advantages": {
       "title": "<0>Benefits</0> of using <br />  saferspaces",
       "description": "The application not only enhances the well-being of visitors, but also promotes sustainable security improvements through its innovative approach.",
       "geoPosition": {
         "title": "Direct Location <br /> Transmission",
-        "description": "All QR codes on Saferspaces posters are location based, allowing our team to quickly identify the exact location of people seeking help."
+        "description": "All QR codes on saferspaces posters are location-based, allowing our team to quickly identify the exact location of individuals seeking help."
       },
       "anonymous": {
         "title": "Complete <br /> Anonymity",
-        "description": "Contact us without revealing any personal information; your privacy is completely protected."
+        "description": "Contact us without revealing any personal information; your privacy is fully protected."
       },
       "noApp": {
         "title": "No App <br /> Download Required",
-        "description": "Saferspaces operates via the web, so there is no need for visitors to download an app before an event."
+        "description": "Saferspaces operates via the web, so visitors do not need to download an app before an event."
       },
       "eye": {
         "title": "Victim- <br /> Centred Approach",
-        "description": "Instead of asking who committed a crime, saferspaces focuses on the question of who something happened to and how the person concerned can be helped in the best possible way."
+        "description": "Instead of asking who committed a crime, saferspaces focuses on the question of who was affected and how to best assist the person concerned."
       },
       "qrCode": {
         "title": "Easy <br /> to Reach",
-        "description": "Staff can be reached by scanning a QR code, shifting from an active to a low-threshold approach for contact."
+        "description": "Staff can be contacted by scanning a QR code, shifting from an active to a low-threshold approach for reaching out."
       },
       "data": {
         "title": "Collection of <br /> Metadata for <br /> Analysis",
-        "description": "Non-personal metadata such as time, incident type and location is collected to assess and analyse the security landscape."
+        "description": "Non-personal metadata such as time, incident type and location is collected to assess, and analyse the security landscape."
       },
       "language": {
         "title": "Automated <br /> Multilingual Support",
-        "description": "Upon scanning, the system automatically detects the language of the user's mobile device and displays the content accordingly. (DE/EN)"
+        "description": "Upon scanning, the system automatically detects the language of the user's mobile device and displays the content accordingly (DE/EN)."
       },
       "shield": {
         "title": "Increased Sense <br /> of Security",
-        "description": "By directly engaging people in the physical environment, for example through posters, saferspaces increases visitors' overall sense of safety and well-being."
+        "description": "By directly engaging people in the physical environment - such as through posters - saferspaces increases visitors' overall sense of safety and well-being."
       },
       "integration": {
         "title": "Location- <br /> Independent Solution",
@@ -96,19 +96,19 @@
       "text": "Saferspaces complements existing safety concepts with an approach that aims to increase general well-being and actively promotes a more respectful coexistence in our society. Based on the principle of being there when help is needed, the software infrastructure is used in a variety of contexts:",
       "discrimination": {
         "title": "Discrimination",
-        "description": "If people are being discriminated against because of their gender, colour, creed, or physical or mental disability, it's important to provide an easily accessible way for them to report it."
+        "description": "If people are being discriminated against because of their gender, ethnicity, religion, or physical or mental disability, it's important to provide an easily accessible way for them to report it."
       },
       "sexualAssault": {
         "title": "Sexual Assault",
-        "description": "The dark figures, especially for sexual offences, are alarmingly high. The saferspaces infrastructure offers affected people the opportunity to receive immediate and trained support."
+        "description": "The dark figure of sexual offenses is alarmingly high. The saferspaces infrastructure offers those affected the opportunity to receive immediate and trained support."
       },
       "generalIncidents": {
         "title": "General Incidents",
-        "description": "Even in the events such as lack of accessibility, the loss of a child in a crowd or a panic attack, the location-based reporting feature provides the ability to call for help quickly and easily."
+        "description": "Whether it’s issues like lack of accessibility, losing a child in a crowd, or experiencing a panic attack, the location-based reporting feature enables quick and easy access to help."
       },
       "abuseOfPower": {
         "title": "Abuse of Power",
-        "description": "In instances of power abuse or authority, individuals can use saferspaces to anonymously report incidents and seek support, ensuring protection from personal repercussions, particularly within the workplace."
+        "description": "In instances of power abuse or misuse of authority, individuals can use saferspaces to anonymously report incidents and seek support, ensuring protection from personal repercussions, particularly within the workplace."
       },
       "escalationsOfViolence": {
         "title": "Escalation of Violence",
@@ -116,12 +116,12 @@
       },
       "notification": {
         "title": "Reporting Feature",
-        "description": "Visitors can use the application to access information about external support services and submit anonymous reports to the organisers, even in the absence of an on-site team."
+        "description": "Visitors can use the application to access information about external support services and submit anonymous reports to the organisers, even if an on-site team is not available."
       }
     },
     "customerFeedback": {
       "title": "What our <1>clients</1> say <br /> about us",
-      "description": "Since 2021, our application has been used effectively in various sectors including nightlife, professional sports, major events and corporate environments, fostering a culture of respect and promoting safer environments.",
+      "description": "Since 2021, our application has been used effectively across sectors including nightlife, professional sports, major events, and corporate environments, fostering a culture of respect and promoting safer environments.",
       "quotes": [
         {
           "text": "By using saferspaces, we will avoid unnecessary loss of time in determining the location of the emergency due to radio interference, incomprehensible announcements, etc. and thus raise the standard of security and help in the stadium",
@@ -130,13 +130,13 @@
           "company": "FC St. Pauli"
         },
         {
-          "text": "Our impression is, that only by using saferspaces the audience is taking better care of each other",
+          "text": "We believe that our audience, through the approach and use of the app, is more attentive to one another.",
           "name": "Fenja Möller",
           "position": "Booking",
           "company": "(formerly) Molotow Musikclub"
         },
         {
-          "text": "The people who used the codes to get help were surprised at how quickly and reliably help was then on site.",
+          "text": "The people who used the codes to get help were surprised at how quickly and reliably help arrived on site.",
           "name": "Sandra Lechtenböhmer",
           "position": "Head of Awareness",
           "company": "Millerntor Gallery"

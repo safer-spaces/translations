@@ -85,7 +85,7 @@
       },
       "language": {
         "title": "Automatisierte <br /> Mehrsprachigkeit",
-        "description": "Beim Scan wird die Systemsprache des Mobilgeräts erkannt und die Inhalte entsprechend richtig dargestellt. (DE/EN)"
+        "description": "Beim Scan wird die Systemsprache des Mobilgeräts erkannt und die Inhalte entsprechend richtig dargestellt (DE/EN)."
       },
       "shield": {
         "title": "Gesteigertes <br /> Sicherheitsgefühl",
@@ -98,14 +98,14 @@
     },
     "forARespectfulSociety": {
       "title": "Für ein <1>respektvolles</1> Miteinander",
-      "text": "Saferspaces ergänzt bestehende Sicherheitskonzepte mit einem Ansatz, der das allgemeine Wohlbefinden steigert und sich aktiv für ein respektvolles Miteinander einsetzt. Nach dem Grundsatz: Da sein, wenn Hilfe gebraucht wird, kommt die Infrastruktur in unterschiedlichen Kontexten zum Einsatz:",
+      "text": "Saferspaces ergänzt bestehende Sicherheitskonzepte mit einem Ansatz, der das Wohlbefinden aller fördert und sich aktiv für ein respektvolles Miteinander einsetzt. Nach dem Prinzip: Da sein, wenn Hilfe gebraucht wird, kommt die Infrastruktur in unterschiedlichen Kontexten zum Einsatz:",
       "discrimination": {
         "title": "Diskriminierung",
-        "description": "Wenn Menschen aufgrund ihres Geschlechts, ihrer Hautfarbe, des Glaubens oder aufgrund von körperlicher oder geistigen Beeinträchtigungen benachteiligt werden, braucht es eine niedrigschwellige Meldemöglichkeit für Betroffene."
+        "description": "Wenn Menschen aufgrund ihres Geschlechts, ihrer Hautfarbe, ihres Glaubens oder einer körperlichen oder geistigen Beeinträchtigungen benachteiligt werden, braucht es eine niedrigschwellige Meldemöglichkeit für Betroffene."
       },
       "sexualAssault": {
         "title": "Sexuelle Übergriffe",
-        "description": "Die Dunkelziffern, insbesondere bei Sexualstraftaten, sind erschreckend hoch. Durch die saferspaces Infrastruktur wird Betroffenen die Möglichkeit geboten, unmittelbar geschulte Unterstützung zu erhalten."
+        "description": "Die Dunkelziffer, insbesondere bei Sexualstraftaten, sind erschreckend hoch. Die Infrastruktur von saferspaces bietet Betroffenen die Möglichkeit, unmittelbar geschulte Unterstützung zu erhalten."
       },
       "generalIncidents": {
         "title": "Allgemeine Vorfälle",
@@ -164,7 +164,7 @@
     },
     "safer": {
       "title": "Wir schaffen <br /> <em>sicherere</em> Orte",
-      "text": "Unsere Anwendung wird unter anderem bei Großveranstaltungen, (Sport-)Vereinen, Festival, Clubs,  Messen in Unternehmen und bei Konferenzen eingesetzt – überall dort, wo viele Menschen zusammenkommen.",
+      "text": "Unsere Anwendung wird unter anderem bei Großveranstaltungen, (Sport-)Vereinen, Festival, Clubs, Messen in Unternehmen und bei Konferenzen eingesetzt – überall dort, wo viele Menschen zusammenkommen.",
       "accessibility": {
         "paulin-flyer-alt": "Ein Hand hält ein Informationsblatt über das Awareness Team \"PAULIN\" vom FC St. Pauli vor dem Hintergrund eines leeren Fußballstadions. Das Blatt enthält Texte über die Funktionen und den Kontaktweg zum Awareness Team. Im Hintergrund ist das Stadion mit roten Sitzen und einer Anzeigetafel, die den Schriftzug \"FC St. Pauli\" zeigt, sichtbar.",
         "take-care-alt": "Eine Hand mit blau lackierten Nägeln und einem silbernen Ring berührt sanft einen Aufkleber mit der Aufschrift \"Let's take care of each other\" auf einem dunklen Hintergrund."
