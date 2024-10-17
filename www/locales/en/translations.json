@@ -209,6 +209,8 @@
       ]
     },
     "pricing": {
+      "commercial": "Commercial",
+      "from": "from",
       "title": "Fair & <em>transparent</em> prices",
       "text_1": "Our goal is for saferspaces to contribute to a safer and more respectful environment in as many places as possible. Therefore, we have chosen a pricing model that makes it affordable for smaller venues to use.",
       "text_2": "In addition to the usage fee, which is either one-time or monthly depending on the context, there is only a one-time fee for onboarding.",

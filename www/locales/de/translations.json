@@ -218,6 +218,8 @@
       ]
     },
     "pricing": {
+      "commercial": "Kommerziell",
+      "from": "ab",
       "title": "Faire & <em>transparente</em> Preise",
       "text_1": "Unser Ziel ist es, dass saferspaces an so vielen Orten wie möglich für ein sichereres und respektvolles Miteinander beiträgt. Daher haben wir uns für ein Preismodell entschieden, das insbesondere kleineren Veranstaltungsorten eine kostengünstige Nutzung ermöglicht.",
       "text_2": "Neben der Nutzungsgebühr, die je nach Kontext einmalig oder monatlich anfällt, wird lediglich eine einmalige Gebühr für ein Onboarding berechnet.",
