@@ -209,7 +209,7 @@
       ]
     },
     "pricing": {
-      "commercial": "Commercial",
+      "nonProfit": "Culture / Non-Profit",
       "from": "from",
       "title": "Fair & <em>transparent</em> prices",
       "text_1": "Our goal is for saferspaces to contribute to a safer and more respectful environment in as many places as possible. Therefore, we have chosen a pricing model that makes it affordable for smaller venues to use.",
@@ -219,6 +219,7 @@
       "usage": "Usage",
       "permanent": "Permanent",
       "once": "One-time",
+      "onboardingCosts": "+ One-time {{ amount }} onboarding costs",
       "capacity": "Capacity",
       "price": "Estimated price",
       "pricePerMonth": "per month (12-month term)",
