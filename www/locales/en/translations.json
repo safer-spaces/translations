@@ -12,12 +12,20 @@
       "login": "Login",
       "faq": "FAQ",
       "home": {
-        "title": "Our approach"
+        "title": "Our approach",
+        "direct": "Features",
+        "useCases": "Use cases",
+        "advantages": "Advantages",
+        "customers": "Our customers"
       },
       "business": {
         "title": "For customers",
         "mustHaves": "Must-haves",
-        "pricing": "Pricing"
+        "pricing": "Pricing",
+        "setup": "Setup",
+        "useCases": "Projects",
+        "impact": "Impact",
+        "feedback": "Feedback"
       },
       "about": {
         "title": "About us",

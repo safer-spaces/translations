@@ -15,12 +15,20 @@
       "privacy": "Datenschutz",
       "faq": "FAQ",
       "home": {
-        "title": "Unser Ansatz"
+        "title": "Unser Ansatz",
+        "direct": "Features",
+        "useCases": "Anwendungsbereiche",
+        "advantages": "Vorteile",
+        "customers": "Unsere Kunden"
       },
       "business": {
         "title": "Für Kunden",
         "pricing": "Preise",
         "mustHaves": "Vorraussetzungen",
+        "setup": "Setup",
+        "projects": "Projekte",
+        "impact": "Impact",
+        "feedback": "Feedback",
         "menu": []
       },
       "about": {
