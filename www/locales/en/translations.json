@@ -43,8 +43,8 @@
   },
   "home": {
     "hero": {
-      "subtitle": "Saferspaces offers a software application that provides quick and easy help for those affected.",
-      "title": "Saferspaces for <1>safer</1> places"
+      "title": "Saferspaces for <1>safer</1> places",
+      "subtitle": "Saferspaces shifts the principle of safety from the feeling of being threatened to the feeling of being safe"
     },
     "directContactViaQrCode": {
       "title": "<0>Anonymous</0> and <br /> easily accessible",
