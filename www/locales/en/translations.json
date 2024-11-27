@@ -128,7 +128,7 @@
       }
     },
     "customerFeedback": {
-      "title": "What our <1>clients</1> say <br /> about us",
+      "title": "Customer <1>feedback</1>",
       "description": "Since 2021, our application has been used effectively across sectors including nightlife, professional sports, major events, and corporate environments, fostering a culture of respect and promoting safer environments.",
       "quotes": [
         {
@@ -173,15 +173,15 @@
     },
     "safer": {
       "title": "We create <br /> <em>safer</em> places",
-      "text": "Our application is used at events, sports clubs, festivals, clubs, trade fairs, companies, and conferences – anywhere people gather in large numbers.",
+      "text": "Our application creates a positive impact at events, sports clubs, festivals, clubs, trade fairs, companies and conferences - wherever people come together in large numbers.",
       "accessibility": {
         "paulin-flyer-alt": "A hand holds an information flyer about the 'PAULIN' awareness team from FC St. Pauli in front of an empty football stadium. The flyer contains texts about the functions and contact information of the awareness team. The stadium with red seats and a scoreboard displaying 'FC St. Pauli' is visible in the background.",
         "take-care-alt": "A hand with blue nail polish and a silver ring gently touches a sticker that reads 'Let's take care of each other' on a dark background."
       }
     },
     "advantages": {
-      "title": "Saferspaces provides extra value",
-      "text": "With saferspaces, we can offer a range of benefits to both the affected and the visitors, both in terms of location and time.",
+      "title": "Saferspaces provides<br /> <em>extra value</em>",
+      "text": "There are various advantages to using saferspaces, both for those affected and for those who provide the infrastructure for visitors.",
       "slides": [
         {
           "title": "Reduces costs",
@@ -222,7 +222,7 @@
     },
     "setup": {
       "title": "Quick and <br /> <em>easy</em> Set up",
-      "text": "It only takes three simple steps and a few minutes to set up the infrastructure for our application.",
+      "text": "It only takes a few simple steps and a few minutes to set up the infrastructure for our application.",
       "steps": [
         {
           "title": "Check-in",
@@ -251,8 +251,8 @@
       "text": "To use saferspaces effectively, certain basic requirements must be met to ensure the best possible support for those affected. For more information on how to use our application ideally, click <2>here</2>.",
       "steps": [
         {
-          "title": "Trained Staff",
-          "description": "To use saferspaces, you need staff with the necessary qualifications to support those affected. It is also important to have women on the team to ensure the best possible support for female victims of sexual assault.",
+          "title": "Staff",
+          "description": "The use of saferspaces requires staff who are specifically deployed to support those affected. It is also important to have women on the team to ensure the best possible support for female victims of sexual assault.",
           "content": "/assets/icons/handshake.svg"
         },
         {
@@ -290,21 +290,21 @@
       "text": "Our application is already in use in various contexts such as FC Bayern Munich's Allianz Arena, the Reeperbahn Festival, Kiel Week, FC St. Pauli, and during UEFA EURO 2024.",
       "steps": [
         {
-          "title": "OBACHT",
+          "title": "FC Bayern München",
           "description": "The awareness concept of FC Bayern Munich. Help for those affected, supported by saferspaces.",
           "link": "https://fcbayern.com/de/news/2023/08/gemeinschaftsprojekt-mit-fans-und-fanprojekt-muenchen-obacht-fc-bayern-startet-awareness-konzept",
           "image": "/assets/images/obacht.png",
           "imageAlt": "Graphic banner with a red background divided into various shades of red with geometric shapes. In large white letters, 'OBACHT' is in the center of the image. Below it, in smaller text, 'OUR ATTITUDE - OUR APPROACH'."
         },
         {
-          "title": "EURO 2024",
+          "title": "UEFA EURO 2024",
           "description": "During EURO 2024, saferspaces provides more security in the stadiums and fan zones.",
           "link": "https://de.uefa.com/euro2024/news/028e-1b18f84e0244-2a6337fd188c-1000--upholding-and-protecting-human-rights-at-uefa-euro-2024/",
           "image": "/assets/images/euro2024.png",
           "imageAlt": "Graphic with a blue background and a colorful, wavy line at the bottom. Text in white and yellow: '#FOOTBALL DO YOU OR DOES SOMEONE ELSE NEED HELP? DO YOU OR SOMEONE ELSE NEED HELP?'"
         },
         {
-          "title": "PAULIN",
+          "title": "FC St. Pauli",
           "description": "Saferspaces is also part of the awareness concept at FC St. Pauli's Millerntor Stadium.",
           "link": "https://www.fcstpauli.com/news/awareness-teams-bei-heimspielen-des-fc-st-pauli-im-einsatz/",
           "image": "/assets/images/paulin.png",
@@ -422,7 +422,7 @@
         },
         {
           "question": "Requirements for the use of saferspaces",
-          "answer": "<strong>What does \"trained personnel\" mean?</strong> Essentially, wherever our infrastructure is deployed, there are people who are explicitly there for those who need support in overwhelming situations. These \"person-affected oriented personnel\" differ from traditional security personnel in that they do not focus on who did what. Awareness teams focus on the people affected by assault and discrimination, shifting the focus to who has been affected and how best to help a person seeking help.<br><br><strong>Safe Space</strong><br>Whenever a person needs acute emotional support, it may be necessary to provide a quiet place to care for and support the individual. These spaces should ideally be sheltered and away from the action.<br><br><strong>Trained Staff / Basic Requirements</strong><br>The team using our application should ideally have previous experience of awareness work. If this is not the case, appropriate training can help to create a person affected-centred team. We are happy to facilitate relevant training from external providers, tailored to the specific context.<br><br><strong>Diverse Teams M/F/D</strong><br>An important requirement is that teams are diverse. As there are often people affected by assault and discrimination, we want to ensure that each team includes people from different backgrounds.<br><br><strong>Minimum Age</strong><br>In addition, we emphasise that individuals working with saferspaces in a person affected-centred way should be at least 23 years old or have extensive experience in awareness work.<br><br><strong>Professional Background</strong><br>Whilst it is desirable for members of the awareness team to have a social, psychological or medical background, this is not a requirement. We value diversity and encourage people from other professional backgrounds to train in awareness work.<br><br><strong>Fundamentals</strong><br>In general, we recommend that all saferspaces users engage in basic awareness work within their own context, beyond solely providing acute assistance to those affected. The aim should be to assist people in acute situations while also focusing on understanding the root causes of discrimination and attacks in their respective contexts, as well as implementing preventive measures. Valuable information can be found, for example, in the following links<br>https://awareness-institut.net/<br>https://www.initiative-awareness.de/"
+          "answer": "<strong>What does \"trained personnel\" mean?</strong> Essentially, wherever our infrastructure is deployed, there are people who are explicitly there for those who need support in overwhelming situations. These \"person-affected oriented personnel\" differ from traditional security personnel in that they do not focus on who did what. Awareness teams focus on the people affected by assault and discrimination, shifting the focus to who has been affected and how best to help a person seeking help.<br><br><strong>Safe Space</strong><br>Whenever a person needs acute emotional support, it may be necessary to provide a quiet place to care for and support the individual. These spaces should ideally be sheltered and away from the action.<br><br><strong>Staff / Basic Requirements</strong><br>The team using our application should ideally have previous experience of awareness work. If this is not the case, appropriate training can help to create a person affected-centred team. We are happy to facilitate relevant training from external providers, tailored to the specific context.<br><br><strong>Diverse Teams M/F/D</strong><br>An important requirement is that teams are diverse. As there are often people affected by assault and discrimination, we want to ensure that each team includes people from different backgrounds.<br><br><strong>Minimum Age</strong><br>In addition, we emphasise that individuals working with saferspaces in a person affected-centred way should be at least 23 years old or have extensive experience in awareness work.<br><br><strong>Professional Background</strong><br>Whilst it is desirable for members of the awareness team to have a social, psychological or medical background, this is not a requirement. We value diversity and encourage people from other professional backgrounds to train in awareness work.<br><br><strong>Fundamentals</strong><br>In general, we recommend that all saferspaces users engage in basic awareness work within their own context, beyond solely providing acute assistance to those affected. The aim should be to assist people in acute situations while also focusing on understanding the root causes of discrimination and attacks in their respective contexts, as well as implementing preventive measures. Valuable information can be found, for example, in the following links<br>https://awareness-institut.net/<br>https://www.initiative-awareness.de/"
         }
       ]
     },
@@ -430,16 +430,12 @@
       "title": "Requirements for the use of saferspaces",
       "questions": [
         {
-          "question": "What does \"trained personnel\" mean?",
-          "answer": "Essentially, wherever our infrastructure is deployed, there are people who are explicitly there for those who need support in overwhelming situations. These \"person-affected oriented personnel\" differ from traditional security personnel in that they do not focus on who did what. Awareness teams focus on the people affected by assault and discrimination, shifting the focus to who has been affected and how best to help a person seeking help."
+          "question": "What are the staff requirements?",
+          "answer": "Essentially, wherever our infrastructure is deployed, there are people who are explicitly deployed to support those affected. These personnel differ from traditional security services in that they do not focus on who caused something.  The teams focus on the people affected by assault and discrimination, shifting the focus to who is affected and how best to help a person seeking help."
         },
         {
           "question": "Safe Space",
           "answer": "Whenever a person needs acute emotional support, it may be necessary to provide a quiet place to care for and support the individual. These spaces should ideally be sheltered and away from the action."
-        },
-        {
-          "question": "Trained Staff / Basic Requirements",
-          "answer": "The team using our application should ideally have previous experience of awareness work. If this is not the case, appropriate training can help to create a person affected-centred team. We are happy to facilitate relevant training from external providers, tailored to the specific context."
         },
         {
           "question": "Diverse Teams M/F/D",

@@ -66,7 +66,7 @@
     },
     "advantages": {
       "title": "<0>Innovative</0> Funktionen",
-      "description": "Mit .",
+      "description": "Saferspaces bietet weit mehr als die Möglichkeit der standortbasierten Meldung über QR-Codes. Eine Vielzahl an innovativen Funktionen ermöglichen eine optimale und individuelle Ausrichtung auf den jeweiligen Kontext.",
       "geoPosition": {
         "title": "Direkte <br /> Standortübermittlung",
         "description": "Die QR-Codes auf den saferspaces-Plakaten sind standortbasiert. Dadurch weiß das Team direkt, wo sich eine betroffene Person befindet."
@@ -185,8 +185,8 @@
       }
     },
     "advantages": {
-      "title": "Saferspaces schafft Mehrwert",
-      "text": "Mit der Nutzung von saferspaces ergeben sich diverse Vorteile, sowohl für die Betroffene als auch für diejenigen, die die Infrastruktur für Besuchende zur Verfügung stellen.",
+      "title": "Saferspaces schafft<br /> <em>Mehrwert</em>",
+      "text": "Mit der Nutzung von saferspaces ergeben sich diverse Vorteile, sowohl für Betroffene als auch für diejenigen, die die Infrastruktur für Besuchende zur Verfügung stellen.",
       "slides": [
         {
           "title": "Reduziert Kosten",
@@ -227,7 +227,7 @@
     },
     "setup": {
       "title": "Aufgesetzt in <br /> <em>wenigen</em> Minuten",
-      "text": "Es braucht \n nur drei simple Schritte und wenige Minuten, um die Infrastruktur unserer Anwendung aufzusetzen.",
+      "text": "Es braucht \n nur wenige simple Schritte und wenige Minuten, um die Infrastruktur unserer Anwendung aufzusetzen.",
       "steps": [
         {
           "title": "Check-in",
@@ -257,7 +257,7 @@
       "steps": [
         {
           "title": "Geschultes Personal",
-          "description": "Für die Nutzung von saferspaces braucht es  Personal, das über die Voraussetzungen für die Betreuung von Betroffenen verfügt. Wichtig ist zudem, dass in jedem Team auch Frauen vertreten sind, um eine bestmögliche Betreuung auch für Betroffene von sexualisierten Übergriffen sicherzustellen.",
+          "description": "Für die Nutzung von saferspaces braucht es Personal, dass aexplizit für die Betreuung von Betroffenen im Einsatz ist. Wichtig ist zudem, dass in jedem Team auch Frauen vertreten sind, um eine bestmögliche Betreuung auch für Betroffene von sexualisierten Übergriffen sicherzustellen.",
           "content": "/assets/icons/handshake.svg"
         },
         {
@@ -295,21 +295,21 @@
       "text": "In unterschiedlichsten Kontexten wie in der Allianz Arena des FC Bayern München, dem Reeperbahn Festival, der Kieler Woche oder dem FC St. Pauli und auch im Rahmen der EURO 2024 ist unsere Anwendung bereits im Einsatz.",
       "steps": [
         {
-          "title": "OBACHT",
+          "title": "FC Bayern München",
           "description": "Das Awareness-Konzept des FC Bayern München. Hilfe für Betroffene, unterstützt durch saferspaces.",
           "link": "https://fcbayern.com/de/news/2023/08/gemeinschaftsprojekt-mit-fans-und-fanprojekt-muenchen-obacht-fc-bayern-startet-awareness-konzept",
           "image": "/assets/images/obacht.png",
           "imageAlt": "Grafisches Banner mit einem roten Hintergrund, der in verschiedene Schattierungen von Rot mit geometrischen Formen unterteilt ist. In großen weißen Buchstaben steht \"OBACHT\" in der Mitte des Bildes. Darunter in kleinerer Schrift \"UNSERE HALTUNG - UNSER ANSATZ\""
         },
         {
-          "title": "EURO 2024",
-          "description": "Im Rahmen der EURO 2024 sorgt saferspaces für mehr Sicherheit in den Stadien und auf den Fanzones.",
+          "title": "UEFA EURO 2024",
+          "description": "Im Rahmen der EURO 2024 sorgte saferspaces mit dem Rapid Response System für mehr Sicherheit in allen zehn Stadien.",
           "link": "https://de.uefa.com/euro2024/news/028e-1b18f84e0244-2a6337fd188c-1000--upholding-and-protecting-human-rights-at-uefa-euro-2024/",
           "image": "/assets/images/euro2024.png",
           "imageAlt": "Grafik mit blauem Hintergrund und einer bunten, wellenförmigen Linie am unteren Rand. Text in Weiß und Gelb: \"#FOOTBALL DO YOU OR DOES SOMEONE ELSE NEED HELP? BRAUCHST DU ODER JEMAND ANDERS HILFE?\""
         },
         {
-          "title": "PAULIN",
+          "title": "FC St. Pauli",
           "description": "Auch im Millerntor-Stadion des FC St. Pauli kommt saferspaces als Teil des Awareness-Konzeptes zum Einsatz.",
           "link": "https://www.fcstpauli.com/news/awareness-teams-bei-heimspielen-des-fc-st-pauli-im-einsatz/",
           "image": "/assets/images/paulin.png",
@@ -431,20 +431,16 @@
       "title": "Voraussetzungen für die Nutzung",
       "questions": [
         {
-          "question": "Was bedeutet “geschultes Personal”?",
-          "answer": "Grundsätzlich gilt, dass überall dort, wo unsere Infrastruktur zum Einsatz kommt Personen vor Ort sind, die explizit für die Menschen da sind, die Unterstützung in Überforderungssituationen benötigen. Dieses „betroffenenorientierte” Personal unterscheidet sich insofern von den klassischen Sicherheitsmitarbeitenden, dass es nicht der Frage nachgeht, wer etwas getan hat. Awareness-Teams richten den Blick auf die Menschen die von Übergriffen und Diskriminierungen betroffen sind und legen somit den Fokus auf die Frage wem etwas passiert ist und wie einer hilfesuchenden Person bestmöglich geholfen werden kann."
+          "question": "Welche Voraussetzungen muss das Personal mitbringen?",
+          "answer": "Im Wesentlichen gibt es überall dort, wo unsere Infrastruktur eingesetzt wird, Menschen, die ausdrücklich für die Unterstützung von Betroffenen im Einsatz sind. Dieses Personal unterscheidet sich vom traditionellen Sicherheitsdienst dadurch, dass es sich nicht darauf konzentriert, wer was getan hat. Die Teams konzentrieren sich auf die Menschen, die von Übergriffen und Diskriminierung betroffen sind, und verlagern den Schwerpunkt darauf, wer betroffen ist und wie man einer hilfesuchenden Person am besten helfen kann."
         },
         {
-          "question": "Saferspace / Rückzugraum",
+          "question": "Saferspace / Rückzugsraum",
           "answer": "Immer dann, wenn eine Person akute seelische Unterstützung benötigt, kann es notwendig sein, einen ruhigen Ort für die Betreuung und Unterstützung der Betroffenen/des Betroffenen anzubieten. Diese Orte sollten im besten Fall geschützt und abseits des Geschehen platziert sein."
         },
         {
-          "question": "Geschultes Personal / Grundvorrausetzungen",
-          "answer": "Das Team, welches mit unserer Anwendung im Einsatz ist sollte bestenfalls über entsprechende Vorerfahrung in der Awarenessarbeit verfügen. Sollte diese nicht gegeben sein können entsprechende Schulungen dabei helfen, ein betroffenenorientiertes Team aufzubauen. Gerne vermitteln wir – jeweils auf den Kontext ausgerichtet entsprechende Schulungsangebote von externen Anbietenden."
-        },
-        {
           "question": "Diverse Teams M/W/D",
-          "answer": "Eine wichtige Grundvoraussetzung ist zudem, dass die Teams vielfältig ausgestellt sind. Da es im Zusammenhang mit Übergriffen und Diskriminierungen leider häufig betroffene weiblichgelesene Personen gibt, möchten wir sicherstellen, dass in jedem Team mindestens eine weibliche Person im Einsatz ist."
+          "answer": "Eine wichtige Grundvoraussetzung ist zudem, dass die Teams vielfältig aufgestellt sind. Da es im Zusammenhang mit Übergriffen und Diskriminierungen leider häufig betroffene weiblichgelesene Personen gibt, möchten wir sicherstellen, dass in jedem Team mindestens eine weibliche Person im Einsatz ist."
         },
         {
           "question": "Mindestalter",
