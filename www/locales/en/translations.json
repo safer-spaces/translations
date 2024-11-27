@@ -48,7 +48,7 @@
     },
     "directContactViaQrCode": {
       "title": "<0>Anonymous</0> and <br /> easily accessible",
-      "text": "By scanning location-based QR codes on saferspaces posters, individuals can easily and with minimal barriers establish contact with trained staff. The staff will immediately know the location of the person seeking help and can respond right away.",
+      "text": "By scanning location-based QR codes on the saferspaces posters, contact can be made easily and at a low threshold. This replaces the often challenging step of actively approaching a stranger and asking for help with a low threshold.",
       "accessibility": {
         "poster": "A poster is hanging on a wall. It reads 'Do you or someone else need help?'. In the bottom right corner is a QR Code.",
         "mockup": "A hand is holding a smartphone. The saferspaces WebApp is open on the display. At the top it reads 'We are here for you'. Below that are three options: 1. I am affected, 2. I am an observer, 3. Call directly.",
@@ -56,7 +56,7 @@
       }
     },
     "digitalAwarenessApproach": {
-      "title": "An <1>innovative</1> approach to <3>security</3>",
+      "title": "Take care of those <1>affected</1>",
       "text": "With saferspaces, we are shifting the focus from „<1>who</1> did <3>what</3>?“ to „<5>who</5> was <7>affected</7>?“, adopting a modern approach. Our application not only provides immediate assistance to those affected but also offers valuable insights to enhance awareness efforts in specific contexts."
     },
     "advantages": {
@@ -74,9 +74,9 @@
         "title": "No App <br /> Download Required",
         "description": "Saferspaces operates via the web, so visitors do not need to download an app before an event."
       },
-      "eye": {
-        "title": "Victim- <br /> Centred Approach",
-        "description": "Instead of asking who committed a crime, saferspaces focuses on the question of who was affected and how to best assist the person concerned."
+      "geoFencing": {
+        "title": "Geofencing",
+        "description": "Thanks to the geofencing function, the system recognises whether the person reporting is in the usage context."
       },
       "qrCode": {
         "title": "Easy <br /> to Reach",
@@ -90,18 +90,18 @@
         "title": "Automated <br /> Multilingual Support",
         "description": "Upon scanning, the system automatically detects the language of the user's mobile device and displays the content accordingly (DE/EN)."
       },
-      "shield": {
-        "title": "Increased Sense <br /> of Security",
-        "description": "By directly engaging people in the physical environment - such as through posters - saferspaces increases visitors' overall sense of safety and well-being."
-      },
       "integration": {
         "title": "Location- <br /> Independent Solution",
-        "description": "Saferspaces integrates seamlessly with existing applications, allowing the awareness team to be easily accessible from any location."
+        "description": "Messages can be sent from any location using both an individual venue link and simple integration into existing apps."
+      },
+      "reporting": {
+        "title": "Reporting tool",
+        "description": "If a person reports via the venue link and is not in the usage context, an anonymous message can be sent at any time via the reporting tool."
       }
     },
     "forARespectfulSociety": {
       "title": "For a <1>respectful</1> society",
-      "text": "Saferspaces complements existing safety concepts with an approach that aims to increase general well-being and actively promotes a more respectful coexistence in our society. Based on the principle of being there when help is needed, the software infrastructure is used in a variety of contexts:",
+      "text": "Saferspaces complements existing safety concepts with an approach that promotes the well-being of all and actively encourages respectful coexistence. Based on the principle of being there when help is needed, the application can provide targeted assistance on site in various emergency situations:",
       "discrimination": {
         "title": "Discrimination",
         "description": "If people are being discriminated against because of their gender, ethnicity, religion, or physical or mental disability, it's important to provide an easily accessible way for them to report it."
@@ -123,8 +123,8 @@
         "description": "Saferspaces' location-based reporting feature enables an immediate response to help those affected."
       },
       "notification": {
-        "title": "Reporting Feature",
-        "description": "Visitors can use the application to access information about external support services and submit anonymous reports to the organisers, even if an on-site team is not available."
+        "title": "Medical Emergency",
+        "description": "In the event of a medical emergency, location-based reporting saves valuable time."
       }
     },
     "customerFeedback": {
@@ -135,19 +135,29 @@
           "text": "By using saferspaces, we will avoid unnecessary loss of time in determining the location of the emergency due to radio interference, incomprehensible announcements, etc. and thus raise the standard of security and help in the stadium",
           "name": "Sven Brux",
           "position": "Head of Matchday Organization & Fan Affairs",
-          "company": "FC St. Pauli"
+          "company": "FC St. Pauli",
+          "image": "/assets/images/customer-sven.png"
+        },
+        {
+          "text": "The collaboration of saferspaces and the city of Kiel enables a safer and democratic festival and the promotion of democracy on the Kieler Woche.",
+          "name": "Vanessa-Zoe Vitsilakis",
+          "position": "Deputy Head of Unit",
+          "company": "Kieler Woche",
+          "image": "/assets/images/customer-vanessa.png"
         },
         {
           "text": "We believe that our audience, through the approach and use of the app, is more attentive to one another.",
           "name": "Fenja Möller",
           "position": "Booking",
-          "company": "(formerly) Molotow Musikclub"
+          "company": "(formerly) Molotow Musikclub",
+          "image": "/assets/images/customer-fenja.png"
         },
         {
           "text": "The people who used the codes to get help were surprised at how quickly and reliably help arrived on site.",
           "name": "Sandra Lechtenböhmer",
           "position": "Head of Awareness",
-          "company": "Millerntor Gallery"
+          "company": "Millerntor Gallery",
+          "image": "/assets/images/customer-sandra.png"
         }
       ]
     },
@@ -168,6 +178,47 @@
         "paulin-flyer-alt": "A hand holds an information flyer about the 'PAULIN' awareness team from FC St. Pauli in front of an empty football stadium. The flyer contains texts about the functions and contact information of the awareness team. The stadium with red seats and a scoreboard displaying 'FC St. Pauli' is visible in the background.",
         "take-care-alt": "A hand with blue nail polish and a silver ring gently touches a sticker that reads 'Let's take care of each other' on a dark background."
       }
+    },
+    "advantages": {
+      "title": "Saferspaces provides extra value",
+      "text": "With saferspaces, we can offer a range of benefits to both the affected and the visitors, both in terms of location and time.",
+      "slides": [
+        {
+          "title": "Reduces costs",
+          "description": "The visibility and immediate accessibility of teams deployed to help those affected is essential. The application makes this accessibility possible at any time, even for smaller teams from any location.",
+          "content": "/assets/icons/advantage-costs.svg"
+        },
+        {
+          "title": "Provides valuable data",
+          "description": "The anonymized data (when, what happened, where) provides valuable insights into existing security gaps and can contribute to a sustainable improvement in the given security situation.",
+          "content": "/assets/icons/advantage-data.svg"
+        },
+        {
+          "title": "Raises standards",
+          "description": "With the help of the Saferspaces infrastructure, your own safety standards are improved and upgraded in the long term through an innovative and time-saving approach.",
+          "content": "/assets/icons/advantage-standards.svg"
+        },
+        {
+          "title": "Strengthens the sense of security",
+          "description": "The certainty of being able to receive support from any location at any time has a positive effect on the sense of security of employees and visitors.",
+          "content": "/assets/icons/advantage-security.svg"
+        },
+        {
+          "title": "Reduces the risk of escalation",
+          "description": "Thanks to the location-based notifications, unnecessary loss of time is avoided and escalations can be prevented through the possibility of targeted support.",
+          "content": "/assets/icons/advantage-escalation.svg"
+        },
+        {
+          "title": "Reduces staff turnover",
+          "description": "The direct reporting function, which also benefits employees, prevents situations of excessive stress and improves well-being within the workplace.",
+          "content": "/assets/icons/advantage-team.svg"
+        },
+        {
+          "title": "Increases revenue",
+          "description": "The holistic approach to safety that comes with using Saferspaces appeals to a large target group, which can lead to increasing revenue from a growing number of visitors.",
+          "content": "/assets/icons/advantage-revenue.svg"
+        }
+      ]
     },
     "setup": {
       "title": "Quick and <br /> <em>easy</em> Set up",
