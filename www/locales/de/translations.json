@@ -77,11 +77,11 @@
       },
       "noApp": {
         "title": "Kein Download <br /> einer App",
-        "description": "Saferspaces funktioniert Webbasiert. Für die Nutzung von ssaferspaces ist kein Download einer App erforderlich."
+        "description": "Saferspaces funktioniert webbasiert. Für die Nutzung von saferspaces ist kein Download einer App erforderlich."
       },
       "geoFencing": {
         "title": "Geofencing",
-        "description": "Durch das der Geofencing-Funktion erkennt das System, ob sich die meldende Person im Nutzungskontext befindet."
+        "description": "Durch das Aktivieren der Geofencing-Funktion erkennt das System, ob sich die meldende Person im Nutzungskontext befindet."
       },
       "data": {
         "title": "Erfassung von Metadaten",
@@ -257,7 +257,7 @@
       "steps": [
         {
           "title": "Geschultes Personal",
-          "description": "Für die Nutzung von saferspaces braucht es Personal, dass explizit für die Betreuung von Betroffenen im Einsatz ist. Wichtig ist zudem, dass in jedem Team auch Frauen vertreten sind, um eine bestmögliche Betreuung auch für Betroffene von sexualisierten Übergriffen sicherzustellen.",
+          "description": "Für die Nutzung von saferspaces braucht es Personal, dass aexplizit für die Betreuung von Betroffenen im Einsatz ist. Wichtig ist zudem, dass in jedem Team auch Frauen vertreten sind, um eine bestmögliche Betreuung auch für Betroffene von sexualisierten Übergriffen sicherzustellen.",
           "content": "/assets/icons/handshake.svg"
         },
         {
@@ -292,7 +292,7 @@
     },
     "venues": {
       "title": "Saferspaces<br /> im <em>Einsatz</em>",
-      "text": "In unterschiedlichsten Kontexten wie in der Allianz Arena des FC Bayern München, dem Reeperbahn Festival, der Kieler Woche oder dem FC St. Pauli und auch im Rahmen der EURO 2024 ist unsere Anwendung bereits im Einsatz.",
+      "text": "In unterschiedlichsten Kontexten wie in der Allianz Arena des FC Bayern München, dem Reeperbahn Festival, der Kieler Woche oder dem FC St. Pauli und auch im Rahmen der EURO 2024 war unsere Anwendung bereits im Einsatz.",
       "steps": [
         {
           "title": "FC Bayern München",
