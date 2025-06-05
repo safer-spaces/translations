@@ -1,0 +1,58 @@
+{
+  "position": {
+    "testNameVisitors": "Posizione (Test visitatori)",
+    "testNameStaff": "Posizione (Test personale)"
+  },
+  "location": {
+    "testName": "Località (Test)"
+  },
+  "venue": {
+    "testName": "Sede di test",
+    "help": {
+      "personStepHeadline": "Siamo qui per te",
+      "personStepSubtitle": "Aiutaci a valutare rapidamente la situazione",
+      "situationStepSubtitle": "Grazie! Che cosa è successo? Dopo la seguente selezione, verrai collegato direttamente al team di sensibilizzazione.",
+      "waitingHeadline": "Siamo con te",
+      "waitingHeadlineAccepted": "Siamo con te",
+      "waitingMessage": "Attendi un attimo, il team è stato avvisato e ti risponderà in un minuto.",
+      "waitingMessageAccepted": "Un membro del team sarà da te tra un minuto."
+    },
+    "chat": {
+      "unknownPosition": {
+        "title": "Incidente senza posizione",
+        "body": "Qualcuno aspetta il tuo messaggio"
+      },
+      "positionShared": "La posizione in tempo reale viene condivisa",
+      "positionEnded": "La posizione in tempo reale è terminata",
+      "automaticFirstMessage": "Ciao, grazie per averci contattato. Vuoi che qualcuno del nostro team si rechi da te o preferisci segnalare in modo anonimo?",
+      "automaticUnavailableMessage": "Ciao, grazie per averci contattato! Al momento il team è impegnato. Resta in chat, saremo con te il prima possibile."
+    },
+    "active": {
+      "feedback": {
+        "text": "Se hai vissuto o osservato qualcosa che desideri segnalarci, utilizza il nostro modulo di segnalazione.",
+        "button": "Segnala qualcosa"
+      }
+    }
+  },
+  "notification": {
+    "request": {
+      "title": "Nuova richiesta di aiuto",
+      "body": "Qualcuno ha bisogno di aiuto. Assicurati di essere al suo posto."
+    },
+    "response": {
+      "body": "Qualcuno dalla tua squadra ti tiene al suo posto.",
+      "title": "Tutto ok"
+    },
+    "automaticResponse": {
+      "title": "Importante!",
+      "body": "Qualcuno ha bisogno di aiuto. Assicurati di essere al suo posto."
+    },
+    "message": {
+      "title": "Nuovo messaggio"
+    },
+    "default": {
+      "title": "Nuovo messaggio",
+      "body": "Non ci sono ulteriori informazioni."
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "default": {
+    "title": "<i>Grazie</i> per la tua fiducia",
+    "body": "Tutte le segnalazioni vengono lette e gestite regolarmente. Se desideri che ti ricontattiamo, lascia il tuo indirizzo email. Se preferisci segnalare in modo anonimo, premi semplicemente \"continua\".",
+    "emailTextfieldLabel": "Indirizzo email",
+    "emailTextfieldOutput": "Indirizzo email",
+    "nextButtonLabel": "Avanti",
+    "situationInfoText_1": "Descrivi brevemente la situazione o l'incidente di cui vuoi informarci.",
+    "situationInfoText_2": "Ancora grazie per averci aiutato a promuovere una convivenza rispettosa per tutti!",
+    "situationTextfieldLabel": "Descrivi il caso",
+    "situationTextfieldOutput": "Descrizione della situazione",
+    "submitButtonLabel": "Invia"
+  },
+  "v2": {
+    "case": {
+      "text": "Descrivi brevemente la situazione o l'evento rilevante.",
+      "data": "Descrizione della situazione",
+      "label": "Testo",
+      "submitAnonymous": "Segnala anonimamente ora",
+      "submitContact": "Lascia i tuoi dati di contatto"
+    },
+    "contact": {
+      "text": "Se desideri che ti ricontattiamo, lascia il tuo indirizzo email o il tuo numero di telefono. Per rimanere anonimo, clicca semplicemente su \"Invia\".",
+      "data": "Contatto",
+      "label": "Contatto",
+      "submit": "Invia"
+    }
+  },
+  "v2standalone": {
+    "initial": {
+      "headline": "Per una convivenza rispettosa",
+      "subtitle": "Vogliamo che tutti si sentano al sicuro e a proprio agio.",
+      "subtext": "Se è successo qualcosa e desideri informarci, utilizza il nostro modulo di segnalazione.",
+      "submit": "Avanti"
+    },
+    "case": {
+      "text": "Descrivi brevemente la situazione o l'evento rilevante.",
+      "data": "Descrizione della situazione",
+      "label": "Testo",
+      "submitAnonymous": "Segnala anonimamente ora",
+      "submitContact": "Lascia i tuoi dati di contatto"
+    },
+    "contact": {
+      "text": "Se desideri che ti ricontattiamo, lascia il tuo indirizzo email o il tuo numero di telefono. Per rimanere anonimo, clicca semplicemente su \"Invia\".",
+      "data": "Contatto",
+      "label": "Contatto",
+      "submit": "Invia"
+    }
+  },
+  "qrCodeDynamicDefaultStepsNLZV1External": {
+    "external": "Esterno",
+    "infoText": "Se sei in difficoltà, puoi contattarci. Siamo qui per aiutarti e supportarti. Il nostro team è qui per supportarti.",
+    "callUs": "Chiamaci",
+    "writeMessage": "Scrivi un messaggio"
+  },
+  "qrCodeDynamicDefaultStepsNLZV1": {
+    "headline": "Per un socio rispettoso",
+    "introText": "Vogliamo assicurare che tutti siano sicuri e in grado di soddisfare le loro esigenze.",
+    "reportInfo": "Se vuoi segnalare qualcosa che hai visto o sentito, utilizza il modulo di segnalazione. Puoi farlo in modo anonimo o con la richiesta di una risposta.",
+    "next": "Avanti",
+    "thanksForReporting": "Grazie per la segnalazione",
+    "contactText": "I nostri rappresentanti sono con te nella comunità. Puoi segnalare direttamente a noi o a un'altra parte esterna.",
+    "personName": "Nome Cognome",
+    "club": "Club",
+    "external": "Esterno"
+  }
+}

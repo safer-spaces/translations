@@ -1,0 +1,58 @@
+{
+  "position": {
+    "testNameVisitors": "Position (Test visiteurs)",
+    "testNameStaff": "Position (Test personnel)"
+  },
+  "location": {
+    "testName": "Lieu (Test)"
+  },
+  "venue": {
+    "testName": "Lieu de test",
+    "help": {
+      "personStepHeadline": "Nous sommes là pour vous",
+      "personStepSubtitle": "Aidez-nous à évaluer rapidement la situation, s'il vous plaît",
+      "situationStepSubtitle": "Merci ! Que s'est-il passé ? Après avoir fait la sélection suivante, vous serez directement connecté(e) à l'équipe de sensibilisation.",
+      "waitingHeadline": "Nous sommes à vos côtés",
+      "waitingHeadlineAccepted": "Nous sommes avec vous",
+      "waitingMessage": "Veuillez patienter un instant, l'équipe a été alertée et vous répondra dans une minute.",
+      "waitingMessageAccepted": "Un membre de l'équipe sera avec vous dans une minute."
+    },
+    "chat": {
+      "unknownPosition": {
+        "title": "Incident sans localisation",
+        "body": "Quelqu'un attend votre message"
+      },
+      "positionShared": "La localisation en direct est partagée",
+      "positionEnded": "Localisation en direct terminée",
+      "automaticFirstMessage": "Bonjour, merci de nous avoir contactés. Souhaitez-vous qu'un membre de notre équipe se rende sur place ou préférez-vous signaler anonymement ?",
+      "automaticUnavailableMessage": "Bonjour, merci de nous avoir contactés ! L'équipe est actuellement en intervention. Veuillez rester dans le chat, nous serons avec vous dès que possible."
+    },
+    "active": {
+      "feedback": {
+        "text": "Si vous avez vécu ou observé quelque chose que vous souhaitez nous signaler, veuillez utiliser notre formulaire de signalement.",
+        "button": "Signaler quelque chose"
+      }
+    }
+  },
+  "notification": {
+    "request": {
+      "title": "Nouvelle demande d'aide",
+      "body": "Quelqu'un a besoin d'aide. Assurez-vous que quelqu'un vous tient au courant."
+    },
+    "response": {
+      "body": "Quelqu'un de votre équipe vous tient au courant.",
+      "title": "Tout va bien"
+    },
+    "automaticResponse": {
+      "title": "Important!",
+      "body": "Quelqu'un a besoin d'aide. Assurez-vous que quelqu'un vous tient au courant."
+    },
+    "message": {
+      "title": "Nouveau message"
+    },
+    "default": {
+      "title": "Nouveau message",
+      "body": "Il n'y a pas d'informations plus précises."
+    }
+  }
+}

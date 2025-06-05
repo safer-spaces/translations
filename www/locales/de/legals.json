@@ -7,7 +7,7 @@
         "headline": "Anschrift",
         "paragraphs": [
           { "type": "text", "text": "saferspaces GmbH" },
-          { "type": "text", "text": "c/o 104 VIERTEL GmbH & Ko. KG." },
+          { "type": "text", "text": "c/o 105 VIERTEL GmbH & Ko. KG." },
           { "type": "text", "text": "Gänsemarkt 33" },
           { "type": "text", "text": "20354 Hamburg" }
         ]
@@ -82,7 +82,7 @@
           "paragraphs": [
             {
               "type": "text",
-              "text": "Benennung der verantwortlichen Stelle: saferspaces GmbH, c/o 104 VIERTEL GmbH & Ko. KG., Gänsemarkt 33, 20354 Hamburg. Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.)."
+              "text": "Benennung der verantwortlichen Stelle: saferspaces GmbH, c/o 105 VIERTEL GmbH & Ko. KG., Gänsemarkt 33, 20354 Hamburg. Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.)."
             }
           ]
         },
@@ -173,7 +173,7 @@
             },
             {
               "type": "text",
-              "text": "(2) Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DS-GVO) ist die saferspaces GmbH,  c/o 104 VIERTEL GmbH & Ko. KG. Gänsemarkt 33 20354 Hamburg, kontakt@saferspaces.io."
+              "text": "(2) Verantwortlicher gem. Art. 4 Abs. 7 EU-Datenschutz-Grundverordnung (DS-GVO) ist die saferspaces GmbH,  c/o 105 VIERTEL GmbH & Ko. KG. Gänsemarkt 33 20354 Hamburg, kontakt@saferspaces.io."
             },
             {
               "type": "text",

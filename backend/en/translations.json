@@ -1,0 +1,58 @@
+{
+  "position": {
+    "testNameVisitors": "Position (Test visitors)",
+    "testNameStaff": "Position (Test staff)"
+  },
+  "location": {
+    "testName": "Location (Test)"
+  },
+  "venue": {
+    "testName": "Test Venue",
+    "help": {
+      "personStepHeadline": "We are there for you",
+      "personStepSubtitle": "Please help us to quickly assess the situation better.",
+      "situationStepSubtitle": "Thank you! What has happened? After making the following selection, you will be connected directly to the awareness team.",
+      "waitingHeadline": "We care for you",
+      "waitingHeadlineAccepted": "We are with you",
+      "waitingMessage": "A team member has been notified and will respond to you in a minute.",
+      "waitingMessageAccepted": "A team member will be with you in a minute."
+    },
+    "chat": {
+      "unknownPosition": {
+        "title": "Location independent incident",
+        "body": "Somebody is waiting for your message"
+      },
+      "positionShared": "Live location is being shared",
+      "positionEnded": "Live location ended",
+      "automaticFirstMessage": "Hello, thank you for getting in touch. Would you like someone from our team to make their way to you, or would you report something anonymously?",
+      "automaticUnavailableMessage": "Hey, currently saferspaces is not active here. Please get in contact with the staff nearby."
+    },
+    "active": {
+      "feedback": {
+        "text": "If something happened that you would like to tell us, please use our report form.",
+        "button": "Report something"
+      }
+    }
+  },
+  "notification": {
+    "request": {
+      "title": "New Help Request",
+      "body": "Someone needs help. Make sure someone is looking after you."
+    },
+    "response": {
+      "body": "Someone from your team is looking after you.",
+      "title": "All good"
+    },
+    "automaticResponse": {
+      "title": "Important!",
+      "body": "Someone needs help. Make sure someone is looking after you."
+    },
+    "message": {
+      "title": "New message"
+    },
+    "default": {
+      "title": "New message",
+      "body": "There is no further information."
+    }
+  }
+}

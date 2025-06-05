@@ -1,0 +1,58 @@
+{
+  "position": {
+    "testNameVisitors": "Position (Test Besuchende)",
+    "testNameStaff": "Position (Test Personal)"
+  },
+  "location": {
+    "testName": "Ort (Test)"
+  },
+  "venue": {
+    "testName": "Test Venue",
+    "help": {
+      "personStepHeadline": "Wir sind für dich da",
+      "personStepSubtitle": "Hilf uns noch bitte schnell die Situation besser einschätzen zu können",
+      "situationStepSubtitle": "Danke! Was ist vorgefallen? Nach der folgenden Auswahl wirst du direkt mit dem Awareness-Team verbunden.",
+      "waitingHeadline": "Wir sind gleich bei dir",
+      "waitingHeadlineAccepted": "Wir sind für dich da",
+      "waitingMessage": "Bitte warte einen Moment, das Team wurde benachrichtigt und meldet sich sofort bei dir.",
+      "waitingMessageAccepted": "Jemand vom Team macht sich jetzt auf den Weg und ist gleich bei dir."
+    },
+    "chat": {
+      "unknownPosition": {
+        "title": "Ortsunanbhängige Meldung",
+        "body": "Jemand wartet auf deine Nachricht"
+      },
+      "positionShared": "Live-Standort wird geteilt",
+      "positionEnded": "Live-Standort beendet",
+      "automaticFirstMessage": "Hallo, danke, dass du dich meldest. Soll sich jemand aus unserem Team auf den Weg zu dir machen oder möchtest du anonym etwas mitteilen?",
+      "automaticUnavailableMessage": "Hey, danke, dass du dich meldest! Gerade ist das Team im Einsatz. Bitte bleibe hier im Chat, wir sind so schnell wie möglich für dich da."
+    },
+    "active": {
+      "feedback": {
+        "text": "Wenn du etwas erlebt oder beobachtet hast, das du uns gern mitteilen möchtest, kannst du hier eine vertrauliche Nachricht senden.",
+        "button": "Etwas melden"
+      }
+    }
+  },
+  "notification": {
+    "request": {
+      "title": "Neuer Hilferuf",
+      "body": "Jemand benötigt Hilfe. Stelle sicher, dass sich jemand darum kümmert."
+    },
+    "response": {
+      "body": "Jemand aus deinem Team kümmert sich drum.",
+      "title": "Alles ok"
+    },
+    "automaticResponse": {
+      "title": "Wichtig!",
+      "body": "Jemand benötigt Hilfe. Stelle sicher, dass sich jemand darum kümmert."
+    },
+    "message": {
+      "title": "Neue Nachricht"
+    },
+    "default": {
+      "title": "Neue Meldung",
+      "body": "Es gibt keine näheren Informationen."
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "default": {
+    "title": "<i>Merci</i> pour votre confiance",
+    "body": "Tous les signalements sont lus et traités régulièrement. Si vous souhaitez que nous vous répondions, veuillez laisser votre adresse e-mail. Si vous préférez signaler anonymement, appuyez simplement sur « continuer ».",
+    "emailTextfieldLabel": "Adresse e-mail",
+    "emailTextfieldOutput": "Adresse e-mail",
+    "nextButtonLabel": "Suivant",
+    "situationInfoText_1": "Veuillez décrire brièvement la situation ou l'incident dont vous souhaitez nous informer.",
+    "situationInfoText_2": "Encore merci de nous aider à promouvoir une coexistence respectueuse pour tous !",
+    "situationTextfieldLabel": "Décrivez le cas",
+    "situationTextfieldOutput": "Description de la situation",
+    "submitButtonLabel": "Envoyer"
+  },
+  "v2": {
+    "case": {
+      "text": "Décrivez brièvement la situation ou l'événement concerné.",
+      "data": "Description de la situation",
+      "label": "Texte",
+      "submitAnonymous": "Signalez anonymement maintenant",
+      "submitContact": "Laissez vos coordonnées"
+    },
+    "contact": {
+      "text": "Si vous souhaitez que nous vous répondions, veuillez laisser votre adresse e-mail ou votre numéro de téléphone. Pour rester anonyme, cliquez simplement sur « Envoyer ».",
+      "data": "Contact",
+      "label": "Contact",
+      "submit": "Envoyer"
+    }
+  },
+  "v2standalone": {
+    "initial": {
+      "headline": "Pour une coexistence respectueuse",
+      "subtitle": "Nous voulons que chacun se sente en sécurité et à l'aise.",
+      "subtext": "Si quelque chose s'est produit et que vous souhaitez nous en informer, veuillez utiliser notre formulaire de signalement.",
+      "submit": "Suivant"
+    },
+    "case": {
+      "text": "Décrivez brièvement la situation ou l'événement concerné.",
+      "data": "Description de la situation",
+      "label": "Texte",
+      "submitAnonymous": "Signalez anonymement maintenant",
+      "submitContact": "Laissez vos coordonnées"
+    },
+    "contact": {
+      "text": "Si vous souhaitez que nous vous répondions, veuillez laisser votre adresse e-mail ou votre numéro de téléphone. Pour rester anonyme, cliquez simplement sur « Envoyer ».",
+      "data": "Contact",
+      "label": "Contact",
+      "submit": "Envoyer"
+    }
+  },
+  "qrCodeDynamicDefaultStepsNLZV1External": {
+    "external": "Externe",
+    "infoText": "Si vous avez des questions, n'hésitez pas à nous contacter. Nous sommes là pour vous aider et vous soutenir. Notre équipe est là pour vous soutenir.",
+    "callUs": "Appelez-nous",
+    "writeMessage": "Écrire un message"
+  },
+  "qrCodeDynamicDefaultStepsNLZV1": {
+    "headline": "Pour un société respectueuse",
+    "introText": "Nous voulons que tout le monde se sente en sécurité et en bonne santé.",
+    "reportInfo": "Si vous souhaitez signaler quelque chose que vous avez vu ou entendu, veuillez utiliser notre formulaire de signalement. Vous pouvez le faire de manière anonyme ou avec la demande de réponse.",
+    "next": "Suivant",
+    "thanksForReporting": "Merci pour votre signalement",
+    "contactText": "Nos représentants sont avec vous dans la communauté. Vous pouvez soit nous signaler directement, soit à une autre personne externe.",
+    "personName": "Prénom Nom",
+    "club": "Club",
+    "external": "Externe"
+  }
+}

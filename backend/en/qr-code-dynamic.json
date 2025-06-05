@@ -1,0 +1,67 @@
+{
+  "default": {
+    "title": "<i>Thank</i> you for your trust",
+    "body": "All reports are read and processed regularly. If you would like us to get back to you, please leave your email address. If you'd rather like to report something anonymously, simply press \"continue\".",
+    "emailTextfieldLabel": "Email address",
+    "emailTextfieldOutput": "Email address",
+    "nextButtonLabel": "Next",
+    "situationInfoText_1": "Please briefly describe the situation or incident you'd like to inform us about.",
+    "situationInfoText_2": "Once again, thank you for helping us work towards respectful coexistence for everyone!",
+    "situationTextfieldLabel": "Describe the case",
+    "situationTextfieldOutput": "Situation description",
+    "submitButtonLabel": "Send"
+  },
+  "v2": {
+    "case": {
+      "text": "Briefly describe the relevant situation or event here.",
+      "data": "Situation description",
+      "label": "Text",
+      "submitAnonymous": "Report anonymously now",
+      "submitContact": "Leave contact details"
+    },
+    "contact": {
+      "text": "If you would like us to get back to you, please leave your e-mail address or telephone number. To remain anonymous, simply click on \"Send\".",
+      "data": "Contact",
+      "label": "Contact",
+      "submit": "Send"
+    }
+  },
+  "v2standalone": {
+    "initial": {
+      "headline": "For a respectful society",
+      "subtitle": "We want to make sure that everyone feels safe and secure.",
+      "subtext": "If something happened that you would like to tell us, please use our report form.",
+      "submit": "Next"
+    },
+    "case": {
+      "text": "Briefly describe the relevant situation or event here.",
+      "data": "Situation description",
+      "label": "Text",
+      "submitAnonymous": "Report anonymously now",
+      "submitContact": "Leave contact details"
+    },
+    "contact": {
+      "text": "If you would like us to get back to you, please leave your e-mail address or telephone number. To remain anonymous, simply click on \"Send\".",
+      "data": "Contact",
+      "label": "Contact",
+      "submit": "Send"
+    }
+  },
+  "qrCodeDynamicDefaultStepsNLZV1External": {
+    "external": "External",
+    "infoText": "If you have any questions, feel free to contact us. We are here to help you and support you. Our team is here to support you.",
+    "callUs": "Call us",
+    "writeMessage": "Write message"
+  },
+  "qrCodeDynamicDefaultStepsNLZV1": {
+    "headline": "For a respectful society",
+    "introText": "We want to make sure that everyone feels safe and secure.",
+    "reportInfo": "If you would like to report something that you have experienced or observed, please use our report form. You can do so anonymously or with the request for a response.",
+    "next": "Next",
+    "thanksForReporting": "Thanks for reporting",
+    "contactText": "Our representatives are with you in the community. You can either report directly to us or to an external party.",
+    "personName": "Firstname Lastname",
+    "club": "Club",
+    "external": "External"
+  }
+}

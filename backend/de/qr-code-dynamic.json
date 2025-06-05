@@ -1,0 +1,67 @@
+{
+  "default": {
+    "title": "<i>Danke</i> für dein Vertrauen",
+    "body": "Alle eingegangenen Meldungen werden regelmäßig gelesen und bearbeitet. Wenn du möchtest, dass wir uns bei dir zurückmelden, hinterlasse gerne deine E-Mail-Adresse. Wenn du uns anonym etwas anvertrauen möchtest, klicke einfach auf \"weiter\".",
+    "emailTextfieldLabel": "E-Mail-Adresse",
+    "emailTextfieldOutput": "E-Mail-Adresse",
+    "nextButtonLabel": "Weiter",
+    "situationInfoText_1": "Beschreibe uns hier kurz die Situation oder die Begebenheit die du mitteilen möchtest.",
+    "situationInfoText_2": "Nochmals vielen Dank, dass du uns dabei hilfst, uns für ein respektvolles Miteinander für alle einzusetzen!",
+    "situationTextfieldLabel": "Beschreibe den Fall",
+    "situationTextfieldOutput": "Beschreibung der Situation",
+    "submitButtonLabel": "Absenden"
+  },
+  "v2": {
+    "case": {
+      "text": "Beschreib uns hier kurz die entsprechende Situation oder die Begebenheit.",
+      "data": "Beschreibung der Situation",
+      "label": "Text",
+      "submitAnonymous": "Jetzt anonym melden",
+      "submitContact": "Kontaktdaten hinterlassen"
+    },
+    "contact": {
+      "text": "Wenn du möchtest, dass wir uns bei dir zurückmelden, hinterlasse gerne deine E-Mail-Adresse oder Telefonnummer. Um anonym zu bleiben, klick einfach auf \"Senden\".",
+      "data": "Kontakt",
+      "label": "Kontakt",
+      "submit": "Senden"
+    }
+  },
+  "v2standalone": {
+    "initial": {
+      "headline": "Für ein respektvolles Miteinander",
+      "subtitle": "Wir möchten, dass sich alle Menschen wohl und sicher bei uns fühlen.",
+      "subtext": "Wenn etwas passiert ist, was du uns mitteilen möchtest nutze gerne unser Meldeformular.",
+      "submit": "Weiter"
+    },
+    "case": {
+      "text": "Beschreib uns hier kurz die entsprechende Situation oder die Begebenheit.",
+      "data": "Beschreibung der Situation",
+      "label": "Text",
+      "submitAnonymous": "Jetzt anonym melden",
+      "submitContact": "Kontaktdaten hinterlassen"
+    },
+    "contact": {
+      "text": "Wenn du möchtest, dass wir uns bei dir zurückmelden, hinterlasse gerne deine E-Mail-Adresse oder Telefonnummer. Um anonym zu bleiben, klick einfach auf \"Senden\".",
+      "data": "Kontakt",
+      "label": "Kontakt",
+      "submit": "Senden"
+    }
+  },
+  "qrCodeDynamicDefaultStepsNLZV1External": {
+    "external": "Externe Stelle",
+    "infoText": "Zum Hilfe-Telefon Sexueller Missbrauch kannst du jederzeit Kontakt aufnehmen, wenn du Fragen hast, selbst betroffen bist oder dir Sorgen um eine andere Person machst. Die Beratung erfolgt anonym, vetraulich und kostenfrei.",
+    "callUs": "Direkt anrufen",
+    "writeMessage": "Nachricht schreiben"
+  },
+  "qrCodeDynamicDefaultStepsNLZV1": {
+    "headline": "Für ein respektvolles Miteinander",
+    "introText": "Wir möchten, dass sich alle Menschen wohl und sicher bei uns fühlen.",
+    "reportInfo": "Wenn du etwas erlebst oder beobachtet hast, dass du gern mitteilen möchtest, um dich oder andere zu schützen, kannst du dies sowohl anonym - oder mit der Bitte um Rückmeldung über dieses Meldetool schnell und einfach tun. ",
+    "next": "Weiter",
+    "thanksForReporting": "Danke, dass du dich meldest",
+    "contactText": "Wir sind deine Ansprechpersonen bei uns im Verein. Du kannst dich entweder direkt bei uns oder bei (externer Stelle) melden.",
+    "personName": "Vorname Nachname",
+    "club": "Verein",
+    "external": "Externe Stelle"
+  }
+}
