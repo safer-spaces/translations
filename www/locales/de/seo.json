@@ -101,6 +101,24 @@
       "Betroffenenorientierung",
       "Datenschutz",
       "Sicherheitslösung"
-    ]
+    ],
+    "alternates": {
+      "canonical": "https://www.saferspaces.io/business",
+      "types": {
+        "de": "https://www.saferspaces.io/de/business",
+        "en": "https://www.saferspaces.io/en/business"
+      }
+    },
+    "og": {
+      "title": "Saferspaces – Sicherheit weiter gedacht",
+      "description": "Saferspaces ergänzt bestehende Sicherheitskonzepte mit anonymer QR‑Code‑Hilfe für ein respektvolles Miteinander. Erfahren Sie, wie unsere Lösung Betroffene in den Mittelpunkt stellt.",
+      "image": "/assets/images/desktop/de:mockup.webp"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Saferspaces – Ihre Lösung für weitergedachte Sicherheit",
+      "description": "Entdecken Sie, wie Saferspaces bestehende Sicherheitsstrategien mit anonymen QR‑Code‑Lösungen erweitert und Betroffene in den Fokus rückt.",
+      "image": "/assets/images/desktop/de:mockup.webp"
+    }
   }
 }

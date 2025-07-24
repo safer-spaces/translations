@@ -337,7 +337,7 @@
         },
         {
           "title": "Holstein Kiel",
-          "description": "In Kooperation mit dem KSV wird saferspaces bei Heimspielen im Holstein Stadion Kiel eingesetzt.",
+          "description": "Holstein Kiel setzt als einer der ersten Vereine der 2. Fußballbundes Liga auf die niedrigschwellige Meldemöglichkeit von Saferspaces.",
           "image": "/assets/images/ksv.png",
           "imageAlt": "Zwei Personen von hinten gesehen, die auf einer Tribüne sitzen und auf ein Fußballspiel schauen. Sie tragen Jacken mit der Aufschrift \"Wilms Awareness\" in lila und schwarz. Im Hintergrund ist das beleuchtete Fußballfeld mit unscharfen Zuschauern zu erkennen."
         },
@@ -352,7 +352,7 @@
           "title": "Kieler Woche",
           "description": "Seit 2023 bietet saferspaces auf dem größten Sommerfest im Norden Europas die Möglichkeit Hilfe anzufordern.",
           "link": "https://www.kieler-woche.de/de/medien/meldung.php?id=126921",
-          "image": "/assets/images/kiwo.png",
+          "image": "/assets/images/cases/kiwo.png",
           "imageAlt": "Ein runder Anstecker mit der Aufschrift \"Brauchst du oder jemand anders Hilfe?\" befestigt an einer lila Tasche. Der Button ist mehrfarbig mit blauen und orangen Streifen am Rand."
         }
       ]

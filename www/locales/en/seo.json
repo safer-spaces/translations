@@ -86,5 +86,39 @@
       "description": "With Saferspaces, receive immediate help through discreet, anonymous QR code scans. Redefining safety for all types of events and facilities.",
       "image": "/assets/images/desktop/en:mockup.webp"
     }
+  },
+  "business": {
+    "title": "Saferspaces – Taking Security Further",
+    "description": "Saferspaces complements existing security concepts with an innovative approach that focuses on those affected and promotes respectful interaction.",
+    "keywords": [
+      "Saferspaces",
+      "security",
+      "anonymous reporting",
+      "QR codes",
+      "awareness",
+      "location delivery",
+      "multilingual support",
+      "victim orientation",
+      "data protection",
+      "security solution"
+    ],
+    "alternates": {
+      "canonical": "https://www.saferspaces.io/business",
+      "types": {
+        "de": "https://www.saferspaces.io/de/business",
+        "en": "https://www.saferspaces.io/en/business"
+      }
+    },
+    "og": {
+      "title": "Saferspaces – Taking Security Further",
+      "description": "Saferspaces enhances existing security strategies by placing those affected at the center with anonymous QR code support. See how our solution works.",
+      "image": "/assets/images/desktop/en:mockup.webp"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Saferspaces – Taking Security Further",
+      "description": "Experience how Saferspaces takes security further by offering anonymous QR code solutions that center on those in need.",
+      "image": "/assets/images/desktop/en:mockup.webp"
+    }
   }
 }

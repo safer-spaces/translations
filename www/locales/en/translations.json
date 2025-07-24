@@ -332,7 +332,7 @@
         },
         {
           "title": "Holstein Kiel",
-          "description": "In cooperation with KSV, saferspaces is used at home games in Holstein Stadium Kiel.",
+          "description": "Holstein Kiel is one of the first clubs in the 2nd Bundesliga to use the low-threshold reporting option of Saferspaces.",
           "image": "/assets/images/ksv.png",
           "imageAlt": "Two people seen from behind sitting on a grandstand, watching a football game. They wear jackets with the inscription 'Wilms Awareness' in purple and black. The illuminated football field with blurred spectators is visible in the background."
         },
@@ -347,7 +347,7 @@
           "title": "Kiel Week",
           "description": "Since 2023, saferspaces has been offering the possibility to request help at the largest summer festival in northern Europe.",
           "link": "https://www.kieler-woche.de/de/medien/meldung.php?id=126921",
-          "image": "/assets/images/kiwo.png",
+          "image": "/assets/images/cases/kiwo.png",
           "imageAlt": "A round badge with the inscription 'Do you or someone else need help?' attached to a purple bag. The button is multicolored with blue and orange stripes on the edge."
         }
       ]
