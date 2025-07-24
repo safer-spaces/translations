@@ -290,6 +290,13 @@
       "text": "Our application has already been used in various contexts such as FC Bayern Munich's Allianz Arena, the Reeperbahn Festival, Kiel Week, FC St. Pauli, and during UEFA EURO 2024.",
       "steps": [
         {
+          "title": "OMR",
+          "description": "At the OMR Festival ‘25, it was possible to contact the awareness team via QR codes on numerous screens as well as at any time and from any location via the festival-specific link omr.saferspaces.io.",
+          "link": "https://www.instagram.com/p/DIgAa4uMvgl/?img_index=6",
+          "image": "/assets/images/caes/omr.png",
+          "imageAlt": ""
+        },
+        {
           "title": "FC Bayern München",
           "description": "The awareness concept of FC Bayern Munich. Help for those affected, supported by saferspaces.",
           "link": "https://fcbayern.com/de/news/2023/08/gemeinschaftsprojekt-mit-fans-und-fanprojekt-muenchen-obacht-fc-bayern-startet-awareness-konzept",
