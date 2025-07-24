@@ -296,9 +296,16 @@
       "steps": [
         {
           "title": "OMR",
-          "description": "Beim OMR Festival ‘25 war es möglich, sowohl über QR-Codes auf zahlreichen Screens als auch jederzeit und von jedem Standort über den festival­eigenen Link omr.saferspaces.io Kontakt zum Awareness-Team aufzunehmen.",
+          "description": "Bei der OMR ‘25 konnte jederzeit und von jedem Standort über Screens oder den Link omr.saferspaces.io Kontakt zum Awareness-Team aufgenommen werden.",
           "link": "https://www.instagram.com/p/DIgAa4uMvgl/?img_index=6",
           "image": "/assets/images/cases/omr.png",
+          "imageAlt": ""
+        },
+        {
+          "title": "Barclays Arena",
+          "description": "Seit dem Frühjahr’ 25 bietet auch die Barclays Arena  einen direkten und optional anonymen Kontakt zum Awareness-Team vor Ort.",
+          "link": "https://www.barclays-arena.de/besuch-planen/awareness",
+          "image": "/assets/images/cases/barclays.png",
           "imageAlt": ""
         },
         {
@@ -321,6 +328,12 @@
           "link": "https://www.fcstpauli.com/news/awareness-teams-bei-heimspielen-des-fc-st-pauli-im-einsatz/",
           "image": "/assets/images/paulin.png",
           "imageAlt": "Logo des \"Paulin Millerntor Awareness Team\" auf einem einfarbigen violetten Hintergrund. Das Logo besteht aus dem Wort \"PAULIN\" in Großbuchstaben, wobei das \"A\" durch ein Symbol ersetzt ist, das einem Auge ähnelt, umgeben von einem Dreieck und einem Kreis. Unterhalb des Haupttextes befindet sich der Schriftzug \"MILLERNTOR AWARENESS TEAM\" in kleineren Buchstaben."
+        },
+        {
+          "title": "CSD Hannover",
+          "description": "Auch beim CSD Hannover kam unsere Anwendung in diesem Jahr bereits zum zweiten Mal im Einsatz",
+          "image": "/assets/images/cases/csd.png",
+          "imageAlt": ""
         },
         {
           "title": "Holstein Kiel",

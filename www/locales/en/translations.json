@@ -297,6 +297,13 @@
           "imageAlt": ""
         },
         {
+          "title": "Barclays Arena",
+          "description": "Since spring 2025, the Barclays Arena has also offered a direct and optional anonymous contact to the awareness team on site.",
+          "link": "https://www.barclays-arena.de/besuch-planen/awareness",
+          "image": "/assets/images/cases/barclays.png",
+          "imageAlt": ""
+        },
+        {
           "title": "FC Bayern München",
           "description": "The awareness concept of FC Bayern Munich. Help for those affected, supported by saferspaces.",
           "link": "https://fcbayern.com/de/news/2023/08/gemeinschaftsprojekt-mit-fans-und-fanprojekt-muenchen-obacht-fc-bayern-startet-awareness-konzept",
@@ -316,6 +323,12 @@
           "link": "https://www.fcstpauli.com/news/awareness-teams-bei-heimspielen-des-fc-st-pauli-im-einsatz/",
           "image": "/assets/images/paulin.png",
           "imageAlt": "Logo of the 'Paulin Millerntor Awareness Team' on a solid violet background. The logo consists of the word 'PAULIN' in uppercase letters, with the 'A' replaced by a symbol resembling an eye, surrounded by a triangle and a circle. Below the main text, the inscription 'MILLERNTOR AWARENESS TEAM' is in smaller letters."
+        },
+        {
+          "title": "CSD Hannover",
+          "description": "Saferspaces was also used at the CSD Hannover for the second time this year.",
+          "image": "/assets/images/cases/csd.png",
+          "imageAlt": ""
         },
         {
           "title": "Holstein Kiel",
